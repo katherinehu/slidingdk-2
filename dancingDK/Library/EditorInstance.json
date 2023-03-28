@@ -1,6 +1,13 @@
 {
+<<<<<<< Updated upstream
 	"process_id" : 82617,
 	"version" : "2021.3.19f1",
 	"app_path" : "/Applications/Unity/Hub/Editor/2021.3.19f1/Unity.app",
 	"app_contents_path" : "/Applications/Unity/Hub/Editor/2021.3.19f1/Unity.app/Contents"
+=======
+	"process_id" : 21846,
+	"version" : "2021.3.18f1",
+	"app_path" : "/Users/katherinehu/Desktop/2021.3.18f1/Unity.app",
+	"app_contents_path" : "/Users/katherinehu/Desktop/2021.3.18f1/Unity.app/Contents"
+>>>>>>> Stashed changes
 }
