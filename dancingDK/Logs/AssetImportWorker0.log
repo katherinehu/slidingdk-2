@@ -642,3 +642,15 @@ Received Import Request.
   path: Assets/Models/STL format
   artifactKey: Guid(48713b15b12d646deb1437c5cae4995a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Models/STL format using Guid(48713b15b12d646deb1437c5cae4995a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7395d43367930b7fe6bc08268658874b') in 0.004729 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 286.467021 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(6ea315d0fd7389c41b19996891e99ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(6ea315d0fd7389c41b19996891e99ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8193726cff86800c54781cdc6d54904') in 0.003986 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 41.731204 seconds.
+  path: Assets/Scenes/Ikea.unity
+  artifactKey: Guid(dbb4fe39cb49841c6b4d3789b1197f16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Ikea.unity using Guid(dbb4fe39cb49841c6b4d3789b1197f16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a943458cada584fa18939a573dfec0ef') in 0.003169 seconds 
