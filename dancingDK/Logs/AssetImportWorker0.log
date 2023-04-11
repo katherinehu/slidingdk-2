@@ -1,9 +1,9 @@
-Unity Editor version:    2021.3.18f1 (3129e69bc0c7)
+Unity Editor version:    2021.3.19f1 (c9714fde33b6)
 Branch:                  2021.3/staging
 Build type:              Release
 Batch mode:              YES
-macOS version:           Version 11.7.4 (Build 20G1120)
-Darwin version:          20.6.0
+macOS version:           Version 12.6.3 (Build 21G419)
+Darwin version:          21.6.0
 Architecture:            x86_64
 Running under Rosetta:   NO
 Available memory:        8192 MB
@@ -11,20 +11,20 @@ Using pre-set license
 Pro License: YES
 
 COMMAND LINE ARGUMENTS:
-/Users/katherinehu/Desktop/2021.3.18f1/Unity.app/Contents/MacOS/Unity
+/Applications/Unity/Hub/Editor/2021.3.19f1/Unity.app/Contents/MacOS/Unity
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-/Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK
+/Users/imani/Desktop/game dev/dancingDK/dancingDK
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-56262
-Successfully changed project path to: /Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK
-/Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK
+50341
+Successfully changed project path to: /Users/imani/Desktop/game dev/dancingDK/dancingDK
+/Users/imani/Desktop/game dev/dancingDK/dancingDK
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -54,15 +54,15 @@ Successfully changed project path to: /Users/katherinehu/Desktop/unityprojects/d
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [4592193024] Host "[IP] 10.0.52.177 [Port] 0 [Flags] 2 [Guid] 1131443400 [EditorId] 1131443400 [Version] 1048832 [Id] OSXEditor(0,800G2-1898.DisStu.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [4771948032] Host "[IP] 10.0.48.186 [Port] 0 [Flags] 2 [Guid] 2529876072 [EditorId] 2529876072 [Version] 1048832 [Id] OSXEditor(0,800G2-2282.DisStu.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [4592193024] Host "[IP] 10.0.52.177 [Port] 0 [Flags] 2 [Guid] 1131443400 [EditorId] 1131443400 [Version] 1048832 [Id] OSXEditor(0,800G2-1898.DisStu.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [4771948032] Host "[IP] 10.0.48.186 [Port] 0 [Flags] 2 [Guid] 2529876072 [EditorId] 2529876072 [Version] 1048832 [Id] OSXEditor(0,800G2-2282.DisStu.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 222.75 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 110.86 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Initialize engine version: 2021.3.18f1 (3129e69bc0c7)
-[Subsystems] Discovering subsystems at path /Users/katherinehu/Desktop/2021.3.18f1/Unity.app/Contents/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path /Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK/Assets
+Initialize engine version: 2021.3.19f1 (c9714fde33b6)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2021.3.19f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/imani/Desktop/game dev/dancingDK/dancingDK/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics (low power)
 Metal devices available: 1
@@ -70,93 +70,93 @@ Metal devices available: 1
 Using device Intel(R) Iris(TM) Plus Graphics (low power)
 Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics
 Initialize mono
-Mono path[0] = '/Users/katherinehu/Desktop/2021.3.18f1/Unity.app/Contents/Managed'
-Mono path[1] = '/Users/katherinehu/Desktop/2021.3.18f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
-Mono config path = '/Users/katherinehu/Desktop/2021.3.18f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56457
+Mono path[0] = '/Applications/Unity/Hub/Editor/2021.3.19f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2021.3.19f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/2021.3.19f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56331
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: /Users/katherinehu/Desktop/2021.3.18f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Registered in 0.003936 seconds.
+Register platform support module: /Applications/Unity/Hub/Editor/2021.3.19f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001036 seconds.
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 154.54 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 104.51 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.607 seconds
+- Completed reload, in  0.963 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1608ms)
-		BeginReloadAssembly (178ms)
+	ReloadAssembly (963ms)
+		BeginReloadAssembly (73ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (1189ms)
-			LoadAssemblies (179ms)
+		EndReloadAssembly (719ms)
+			LoadAssemblies (73ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (332ms)
+			SetupTypeCache (203ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (78ms)
-			SetupLoadedEditorAssemblies (659ms)
+			RebuildScriptCaches (46ms)
+			SetupLoadedEditorAssemblies (392ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (12ms)
+				InitializePlatformSupportModulesInManaged (8ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (155ms)
+				RefreshPlugins (105ms)
 				BeforeProcessingInitializeOnLoad (2ms)
-				ProcessInitializeOnLoadAttributes (387ms)
-				ProcessInitializeOnLoadMethodAttributes (102ms)
+				ProcessInitializeOnLoadAttributes (211ms)
+				ProcessInitializeOnLoadMethodAttributes (66ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.004219 seconds.
+Registered in 0.002200 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image /Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/imani/Desktop/game dev/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/imani/Desktop/game dev/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 1.12 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.75 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.712 seconds
+- Completed reload, in  1.677 seconds
 Domain Reload Profiling:
-	ReloadAssembly (3716ms)
-		BeginReloadAssembly (255ms)
+	ReloadAssembly (1679ms)
+		BeginReloadAssembly (150ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (13ms)
+			DisableScriptedObjects (10ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (73ms)
-		EndReloadAssembly (3065ms)
-			LoadAssemblies (220ms)
+			CreateAndSetChildDomain (46ms)
+		EndReloadAssembly (1347ms)
+			LoadAssemblies (132ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (1143ms)
+			SetupTypeCache (488ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (131ms)
-			SetupLoadedEditorAssemblies (1035ms)
+			RebuildScriptCaches (92ms)
+			SetupLoadedEditorAssemblies (537ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (14ms)
+				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (364ms)
-				ProcessInitializeOnLoadAttributes (611ms)
-				ProcessInitializeOnLoadMethodAttributes (40ms)
-				AfterProcessingInitializeOnLoad (3ms)
+				BeforeProcessingInitializeOnLoad (99ms)
+				ProcessInitializeOnLoadAttributes (385ms)
+				ProcessInitializeOnLoadMethodAttributes (44ms)
+				AfterProcessingInitializeOnLoad (1ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (8ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launching external process: /Users/katherinehu/Desktop/2021.3.18f1/Unity.app/Contents/Tools/UnityShaderCompiler
-Launched and connected shader compiler UnityShaderCompiler after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
+Launching external process: /Applications/Unity/Hub/Editor/2021.3.19f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3050 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 24 unused Assets / (88.1 KB). Loaded Objects now: 3510.
-Memory consumption went from 104.9 MB to 104.8 MB.
-Total: 6.878459 ms (FindLiveObjects: 0.291926 ms CreateObjectMapping: 0.174356 ms MarkObjects: 6.155414 ms  DeleteObjects: 0.254963 ms)
+Unloading 3117 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (88.5 KB). Loaded Objects now: 3581.
+Memory consumption went from 107.3 MB to 107.2 MB.
+Total: 4.009547 ms (FindLiveObjects: 0.264007 ms CreateObjectMapping: 0.142177 ms MarkObjects: 3.427249 ms  DeleteObjects: 0.174728 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -169,50 +169,752 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
+Received Import Request.
+  Time since last request: 2654.177168 seconds.
+  path: Assets/Scenes/Ikea.unity
+  artifactKey: Guid(dbb4fe39cb49841c6b4d3789b1197f16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Ikea.unity using Guid(dbb4fe39cb49841c6b4d3789b1197f16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59d4a3d9214e27d5fc48380e233e81d9') in 0.010094 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 33.717880 seconds.
+  path: Assets/Materials/ikeaColor.mat
+  artifactKey: Guid(26249a92058b14e3cae2dc927d431935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/ikeaColor.mat using Guid(26249a92058b14e3cae2dc927d431935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6d9f01c1d44ea267577f404ce53e80f') in 1.029930 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 234.367218 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/bathroomCabinet.obj
+  artifactKey: Guid(4a5462dae287e4dcda6dce3bf7fe5ace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/bathroomCabinet.obj using Guid(4a5462dae287e4dcda6dce3bf7fe5ace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee5a43fe45f30b263d03166fb757d7d0') in 0.260879 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/bench.obj
+  artifactKey: Guid(3bd485fb9b3c24d2588d0536a9483f24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/bench.obj using Guid(3bd485fb9b3c24d2588d0536a9483f24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2a89dfe91a37f3f6c3e0ad0ceceb89f') in 0.085890 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/bedBunk.obj
+  artifactKey: Guid(30c276e2755384a53bb57a6649a5ab7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/bedBunk.obj using Guid(30c276e2755384a53bb57a6649a5ab7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd355df1898be27fe3a748ce22ae45f9') in 0.124654 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/bathroomMirror.obj
+  artifactKey: Guid(89fba876cbd8645df8ece5ac48936236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/bathroomMirror.obj using Guid(89fba876cbd8645df8ece5ac48936236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '850b8b2ec3d624beba8b0f100eb89002') in 0.067528 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/bathroomSink.obj
+  artifactKey: Guid(ed13b254185924f6fadb5055caba1e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/bathroomSink.obj using Guid(ed13b254185924f6fadb5055caba1e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d1637eae0dcc26521b6f43dc3ad5b78') in 0.060832 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/benchCushionLow.obj
+  artifactKey: Guid(ed8c5a8f3227340bca75b4c74f96df31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/benchCushionLow.obj using Guid(ed8c5a8f3227340bca75b4c74f96df31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98672a0e82b3d88d160a681391ed0081') in 0.088543 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/bookcaseOpenLow.obj
+  artifactKey: Guid(2f9f8c70b229b46ac8468f169020496a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/bookcaseOpenLow.obj using Guid(2f9f8c70b229b46ac8468f169020496a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c42c5c31b26e5109cd3f21454419c06') in 0.049475 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/bookcaseClosedWide.obj
+  artifactKey: Guid(c981278a1ede644afac75af0e84db98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/bookcaseClosedWide.obj using Guid(c981278a1ede644afac75af0e84db98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f04795966198629136f24c6ade4a2194') in 0.047214 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000101 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/bathtub.obj
+  artifactKey: Guid(b76504e3fedf74fd99744dd98638552c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/bathtub.obj using Guid(b76504e3fedf74fd99744dd98638552c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37035a268b73c998a9a8c62ef82ac413') in 0.069572 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/bathroomSinkSquare.obj
+  artifactKey: Guid(e67a0294255f448f1b81a9b5ba1021e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/bathroomSinkSquare.obj using Guid(e67a0294255f448f1b81a9b5ba1021e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '380fd4662243a892ed70f4aa45ff64a8') in 0.055606 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/bookcaseOpen.obj
+  artifactKey: Guid(2f782909b6267458ca9464b698af66e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/bookcaseOpen.obj using Guid(2f782909b6267458ca9464b698af66e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '463a6f12c8f3cce884a949951146f90d') in 0.047465 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/bookcaseClosed.obj
+  artifactKey: Guid(43624a7ba782745b5a2f3f7deb06788c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/bookcaseClosed.obj using Guid(43624a7ba782745b5a2f3f7deb06788c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '730380e59277efedf3d6c0420fe0fd5d') in 0.042675 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.315588 seconds.
+  path: Assets/Models/Ikea_Models/FBX format/bathroomCabinet.fbx
+  artifactKey: Guid(15216f9f9a2954970a96aebd378e8c6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/FBX format/bathroomCabinet.fbx using Guid(15216f9f9a2954970a96aebd378e8c6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0d66d4e24de51793a44ea595ddb552e') in 0.144214 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000104 seconds.
+  path: Assets/Models/Ikea_Models/FBX format/chairModernFrameCushion.fbx
+  artifactKey: Guid(7f66a42dd1a654d9fb3f352efffb94d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/FBX format/chairModernFrameCushion.fbx using Guid(7f66a42dd1a654d9fb3f352efffb94d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0d20fe0440063e2ac84d5f8c58477ab') in 0.040811 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000086 seconds.
+  path: Assets/Models/Ikea_Models/FBX format/cabinetBedDrawerTable.fbx
+  artifactKey: Guid(d6efbfe97fbd04519b35701e25e95e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/FBX format/cabinetBedDrawerTable.fbx using Guid(d6efbfe97fbd04519b35701e25e95e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2713a3e247cc7bd8d608d8bd6afc258') in 0.071419 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Models/Ikea_Models/FBX format/ceilingFan.fbx
+  artifactKey: Guid(b2b919b7afb5242b49582f03717c4aa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/FBX format/ceilingFan.fbx using Guid(b2b919b7afb5242b49582f03717c4aa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f0f8a4ca194de90771d76714abcc949') in 0.045578 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Models/Ikea_Models/FBX format/benchCushionLow.fbx
+  artifactKey: Guid(2a4386e8852714242b527446c98828e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/FBX format/benchCushionLow.fbx using Guid(2a4386e8852714242b527446c98828e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca59a40fba5b769e015e1daa4885b8bf') in 0.045740 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Assets/Models/Ikea_Models/FBX format/cabinetTelevision.fbx
+  artifactKey: Guid(81907f2fe96824d95b30d6304b71e234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/FBX format/cabinetTelevision.fbx using Guid(81907f2fe96824d95b30d6304b71e234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90bdf0aeb6d7e981dc0df02037f4c47a') in 0.033112 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/Models/Ikea_Models/FBX format/bathtub.fbx
+  artifactKey: Guid(a94056c432574440084beba82ab11fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/FBX format/bathtub.fbx using Guid(a94056c432574440084beba82ab11fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cdee1f0c5c6e27b956138b4eefe9048') in 0.048940 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/Models/Ikea_Models/FBX format/bookcaseClosedDoors.fbx
+  artifactKey: Guid(986a7b637198c411ab4bd4e879a75f8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/FBX format/bookcaseClosedDoors.fbx using Guid(986a7b637198c411ab4bd4e879a75f8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5b3d8dfcfaaa8c93cb3a1d9f3f1a56e') in 0.065912 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Models/Ikea_Models/FBX format/cardboardBoxOpen.fbx
+  artifactKey: Guid(ccc4320b9533a4d649c8de4c30042753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/FBX format/cardboardBoxOpen.fbx using Guid(ccc4320b9533a4d649c8de4c30042753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0416c78a31cb11f851787d65ea0cf8bb') in 0.047776 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Models/Ikea_Models/FBX format/computerMouse.fbx
+  artifactKey: Guid(d11aaac3e1472423ab061856ee22ac83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/FBX format/computerMouse.fbx using Guid(d11aaac3e1472423ab061856ee22ac83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27af29a7537443ad8507a37553408ac1') in 0.037252 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Models/Ikea_Models/FBX format/benchCushion.fbx
+  artifactKey: Guid(656fa8e4273f041139f83c319a1562f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/FBX format/benchCushion.fbx using Guid(656fa8e4273f041139f83c319a1562f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9420742abc66c39339da9bc1a4accd10') in 0.045212 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Models/Ikea_Models/FBX format/cardboardBoxClosed.fbx
+  artifactKey: Guid(fb95803b9012a43ddb6defb1d279e81b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/FBX format/cardboardBoxClosed.fbx using Guid(fb95803b9012a43ddb6defb1d279e81b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f00723468dceac64f14223362ca32061') in 0.046038 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Models/Ikea_Models/FBX format/coatRack.fbx
+  artifactKey: Guid(7c51bb9ffd98c42d7aed7a397feccf05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/FBX format/coatRack.fbx using Guid(7c51bb9ffd98c42d7aed7a397feccf05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '340a917fe166c7307692871b73e7e4d0') in 0.046323 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Models/Ikea_Models/FBX format/bedDouble.fbx
+  artifactKey: Guid(2d0d9f2430530424fa64e6cdc07fe4fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/FBX format/bedDouble.fbx using Guid(2d0d9f2430530424fa64e6cdc07fe4fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a7c1c97cc9a173756b4f4c0d94f802a') in 0.116516 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/Models/Ikea_Models/FBX format/desk.fbx
+  artifactKey: Guid(c946651664fa7425cb926693bcfd2a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/FBX format/desk.fbx using Guid(c946651664fa7425cb926693bcfd2a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '349570467c1da6d73c0a2ed1351b5bd0') in 0.062591 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Models/Ikea_Models/FBX format/chairModernCushion.fbx
+  artifactKey: Guid(95d2a75be14c347609a2e506a4b21378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/FBX format/chairModernCushion.fbx using Guid(95d2a75be14c347609a2e506a4b21378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0f805637cdfedcb60da38d55f38da01') in 0.039663 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Models/Ikea_Models/FBX format/bookcaseOpen.fbx
+  artifactKey: Guid(efb3337d4c76e497ea4d0c94138b0c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/FBX format/bookcaseOpen.fbx using Guid(efb3337d4c76e497ea4d0c94138b0c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21621508a255e00b20b143f5049822c6') in 0.029676 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Models/Ikea_Models/FBX format/doorway.fbx
+  artifactKey: Guid(015ffc5e80a1b48de89a66508a0cb5de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/FBX format/doorway.fbx using Guid(015ffc5e80a1b48de89a66508a0cb5de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdb4f889e0a01af840cf6d4978e344ce') in 0.049302 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/Models/Ikea_Models/FBX format/chairRounded.fbx
+  artifactKey: Guid(16f912767181d439f909feb93beccf09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/FBX format/chairRounded.fbx using Guid(16f912767181d439f909feb93beccf09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bd38e98ba9313f10910afa970a00245') in 0.027017 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/Models/Ikea_Models/FBX format/bedBunk.fbx
+  artifactKey: Guid(7eef85c2034c344c09d3a5cc1318bff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/FBX format/bedBunk.fbx using Guid(7eef85c2034c344c09d3a5cc1318bff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3aa7168b43d6027be1b3b6cf7844a86') in 0.123157 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/Models/Ikea_Models/FBX format/bedSingle.fbx
+  artifactKey: Guid(4cb05bb43d5724bbe97b6206f1eac6f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/FBX format/bedSingle.fbx using Guid(4cb05bb43d5724bbe97b6206f1eac6f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc71cfe886d4f197cbe6b351ee8996e7') in 0.097073 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 38.880323 seconds.
+  path: Assets/Models/Ikea_Models/DAE format/bathroomCabinet.dae
+  artifactKey: Guid(5596f8de066c14198b18580f5aea52a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/DAE format/bathroomCabinet.dae using Guid(5596f8de066c14198b18580f5aea52a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0caf42e8868877b2ad82a8f629de666') in 0.330779 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000086 seconds.
+  path: Assets/Models/Ikea_Models/DAE format/chairModernCushion.dae
+  artifactKey: Guid(4795448e00dd846f9aafdb717ca49bdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/DAE format/chairModernCushion.dae using Guid(4795448e00dd846f9aafdb717ca49bdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '106477a0687e0e6972ac253085c56042') in 0.073196 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/Models/Ikea_Models/DAE format/computerKeyboard.dae
+  artifactKey: Guid(3db5be84271724c9cb92f38176978cef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/DAE format/computerKeyboard.dae using Guid(3db5be84271724c9cb92f38176978cef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a93ac035d4d78a0bbed472480cd4ed4f') in 0.057842 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/Models/Ikea_Models/DAE format/bench.dae
+  artifactKey: Guid(1c43a831673a3491caee5d399b1001a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/DAE format/bench.dae using Guid(1c43a831673a3491caee5d399b1001a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6df9c0a1381da75ec17086be3827777') in 0.031226 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/Models/Ikea_Models/DAE format/bookcaseClosed.dae
+  artifactKey: Guid(1a4b25537423349ffa394f97ed11ff2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/DAE format/bookcaseClosed.dae using Guid(1a4b25537423349ffa394f97ed11ff2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '901eeb72749601d4cc0927046841220b') in 0.028517 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/Models/Ikea_Models/DAE format/bookcaseClosedDoors.dae
+  artifactKey: Guid(142a22b390414448a892048d9c707665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/DAE format/bookcaseClosedDoors.dae using Guid(142a22b390414448a892048d9c707665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23e19fb87b4643f8ab4127ddbfd83ac4') in 0.077762 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Models/Ikea_Models/DAE format/bookcaseOpenLow.dae
+  artifactKey: Guid(f3e5d093763ea446fa2a731f5bdd3e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/DAE format/bookcaseOpenLow.dae using Guid(f3e5d093763ea446fa2a731f5bdd3e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7205d7fd4d2c500efb6e92a60ac32e1a') in 0.033409 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/Models/Ikea_Models/DAE format/cabinetBed.dae
+  artifactKey: Guid(6ac6e6b17d87d42cfa70d25b9e685dbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/DAE format/cabinetBed.dae using Guid(6ac6e6b17d87d42cfa70d25b9e685dbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffe3a95c0538afecc8ecc613c38e6b28') in 0.056624 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/Models/Ikea_Models/DAE format/chairRounded.dae
+  artifactKey: Guid(de985ea0f89fe4b39b911c538fd5e24b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/DAE format/chairRounded.dae using Guid(de985ea0f89fe4b39b911c538fd5e24b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49847929aefeac4ea9ed0d48d1b38451') in 0.030308 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/Models/Ikea_Models/DAE format/cabinetBedDrawerTable.dae
+  artifactKey: Guid(21aa4e973b9f446abb8b251b222f8227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/DAE format/cabinetBedDrawerTable.dae using Guid(21aa4e973b9f446abb8b251b222f8227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0aeff15cf6cfa66ddd7711ee4b52584') in 0.073745 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/Models/Ikea_Models/DAE format/computerScreen.dae
+  artifactKey: Guid(79ae3f3abb5c846a2a528c37937fe564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/DAE format/computerScreen.dae using Guid(79ae3f3abb5c846a2a528c37937fe564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c21a46173d669b28a82b88953aa56c48') in 0.038977 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Models/Ikea_Models/DAE format/bathroomSinkSquare.dae
+  artifactKey: Guid(0568b10a6f32740a4bc8ab58220469ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/DAE format/bathroomSinkSquare.dae using Guid(0568b10a6f32740a4bc8ab58220469ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fb84354e3eabaa7eb300fbc796d12bf') in 0.048934 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/Models/Ikea_Models/DAE format/computerMouse.dae
+  artifactKey: Guid(fce302d53904940f18c1ffe94fbb5800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/DAE format/computerMouse.dae using Guid(fce302d53904940f18c1ffe94fbb5800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c39515626151ee63a40f5a3a68ae549d') in 0.035762 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/Models/Ikea_Models/DAE format/deskCorner.dae
+  artifactKey: Guid(a47a39bda7ca4436bb12b8cfb1633611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/DAE format/deskCorner.dae using Guid(a47a39bda7ca4436bb12b8cfb1633611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e41ecca2dbbd3ef54c1a5e48a2749bc4') in 0.067459 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Models/Ikea_Models/DAE format/chair.dae
+  artifactKey: Guid(0d57bb05b81a840b2a43230233ca8417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/DAE format/chair.dae using Guid(0d57bb05b81a840b2a43230233ca8417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '184d2c55e8b6233917af000f07266273') in 0.023695 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Models/Ikea_Models/DAE format/bear.dae
+  artifactKey: Guid(d8a3c131c76ab498ab029cc86f47e909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/DAE format/bear.dae using Guid(d8a3c131c76ab498ab029cc86f47e909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6ee3410249700c159677d0ef2ba8601') in 0.042953 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Models/Ikea_Models/DAE format/bedSingle.dae
+  artifactKey: Guid(882cc8d051e7a4d40b4faeaa82af844c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/DAE format/bedSingle.dae using Guid(882cc8d051e7a4d40b4faeaa82af844c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '303b4370005d2a12a0564ebfb608d42c') in 0.081849 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Models/Ikea_Models/DAE format/cardboardBoxOpen.dae
+  artifactKey: Guid(12a95df4610bf4835ab0759ebfe3baa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/DAE format/cardboardBoxOpen.dae using Guid(12a95df4610bf4835ab0759ebfe3baa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd916a2331e273d1e42af246c3ea4f0a4') in 0.036242 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/Models/Ikea_Models/DAE format/benchCushion.dae
+  artifactKey: Guid(c407d1d2c634d476b933dff4f9da73fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/DAE format/benchCushion.dae using Guid(c407d1d2c634d476b933dff4f9da73fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f6800117e3782caedb88d53765f6978') in 0.035375 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Models/Ikea_Models/DAE format/chairCushion.dae
+  artifactKey: Guid(8ca0cde0ddaf442c5897efa9df72a1dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/DAE format/chairCushion.dae using Guid(8ca0cde0ddaf442c5897efa9df72a1dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4605b1e89d2b3e84ee5249d32bfbaa0') in 0.035826 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Models/Ikea_Models/DAE format/cabinetTelevisionDoors.dae
+  artifactKey: Guid(26045a30cd1f147ba9039bae3d3d01ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/DAE format/cabinetTelevisionDoors.dae using Guid(26045a30cd1f147ba9039bae3d3d01ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '315f3d32330762acbb9e49050ff71ed8') in 0.072301 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 68.969302 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/cabinetBedDrawer.obj
+  artifactKey: Guid(5be45cece1f0e4321995e6d3bf2567f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/cabinetBedDrawer.obj using Guid(5be45cece1f0e4321995e6d3bf2567f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '538f8e85917f10a13777adb4e2568524') in 0.102771 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/cabinetTelevision.obj
+  artifactKey: Guid(3eed4c1964c4d4ffdbecbe7862509763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/cabinetTelevision.obj using Guid(3eed4c1964c4d4ffdbecbe7862509763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a198f25d9532cf1d9f7c834779595d54') in 0.038591 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/cardboardBoxClosed.obj
+  artifactKey: Guid(b2c6d219e506f467b9919d3d349a5725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/cardboardBoxClosed.obj using Guid(b2c6d219e506f467b9919d3d349a5725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32c7feec09bbaf70865592758fe40dfe') in 0.044358 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.764320 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/cardboardBoxOpen.obj
+  artifactKey: Guid(1e0f11f7a48fd45c1b1122e09c16234b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/cardboardBoxOpen.obj using Guid(1e0f11f7a48fd45c1b1122e09c16234b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd929aa0ae0172e828448fc8396278968') in 0.056795 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000091 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/chairCushion.obj
+  artifactKey: Guid(47071ba2aa59a44be8373018863fb050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/chairCushion.obj using Guid(47071ba2aa59a44be8373018863fb050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaf31294c52edb20f6b5efd151cba691') in 0.050372 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/chair.obj
+  artifactKey: Guid(0276fde314c504f39880311cc6ac9e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/chair.obj using Guid(0276fde314c504f39880311cc6ac9e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e01c4d39b1a57b6c5741713b0e3c369b') in 0.029172 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.021555 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/chairModernCushion.obj
+  artifactKey: Guid(6ce8f410e6f00425b8a50c2b61fbea46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/chairModernCushion.obj using Guid(6ce8f410e6f00425b8a50c2b61fbea46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c35150dce34653114a54a96f5c234f19') in 0.037618 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/coatRack.obj
+  artifactKey: Guid(162e855fbaf8747e6b7837371fc6bb8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/coatRack.obj using Guid(162e855fbaf8747e6b7837371fc6bb8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7293cb3eba3d59a4a7a6c55bd92956d6') in 0.041773 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.147223 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/computerKeyboard.obj
+  artifactKey: Guid(0b68517b1e18c4d71800f513b092a0e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/computerKeyboard.obj using Guid(0b68517b1e18c4d71800f513b092a0e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d6ce454cccd960f74c41312e5ed14ea') in 0.041232 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/desk.obj
+  artifactKey: Guid(147c7892effb84b37bf9f0716eb0a7b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/desk.obj using Guid(147c7892effb84b37bf9f0716eb0a7b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f62806909b021597d621e66904f67e8d') in 0.059250 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.952319 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/doorway.obj
+  artifactKey: Guid(459ad75b91ef94505adf4435cd58d6bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/doorway.obj using Guid(459ad75b91ef94505adf4435cd58d6bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47e97b21f01cab8ed346a637b05cd502') in 0.062900 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/dryer.obj
+  artifactKey: Guid(f64b6aed1b4874a03ae55da8b63ea073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/dryer.obj using Guid(f64b6aed1b4874a03ae55da8b63ea073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad85e5030384ff62ae9d87d2f6479a88') in 0.088353 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.019027 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/floorCornerRound.obj
+  artifactKey: Guid(a32120c67c0ad475f8b8f959dcb44102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/floorCornerRound.obj using Guid(a32120c67c0ad475f8b8f959dcb44102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5bf429e6e4674c5d20cd1f16488a0b0') in 0.055585 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/hoodLarge.obj
+  artifactKey: Guid(9bb91430ac22849c89dfe7f93f0e3037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/hoodLarge.obj using Guid(9bb91430ac22849c89dfe7f93f0e3037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '082f4d457f5918b1d7eec7cff590dae5') in 0.054979 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.566768 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/kitchenBar.obj
+  artifactKey: Guid(9e8d20e37de874ae4926758e53632018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/kitchenBar.obj using Guid(9e8d20e37de874ae4926758e53632018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '908a4b7893c1592c1874afa20e3cc2dc') in 0.064150 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013161 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/kitchenCabinetCornerInner.obj
+  artifactKey: Guid(59a0f09fa35ee44a0abf605982d0de98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/kitchenCabinetCornerInner.obj using Guid(59a0f09fa35ee44a0abf605982d0de98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '002c29198cba86d54f441805125fa65f') in 0.057101 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/kitchenCabinet.obj
+  artifactKey: Guid(d479c1417c9944cdebd6d55b196f033b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/kitchenCabinet.obj using Guid(d479c1417c9944cdebd6d55b196f033b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e30ba71fb1e7ead4af7fc59ef953c5c') in 0.057581 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.529609 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/kitchenCabinetCornerRound.obj
+  artifactKey: Guid(d4c5ae8cf454a4c3ba2ab0105d32a260) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/kitchenCabinetCornerRound.obj using Guid(d4c5ae8cf454a4c3ba2ab0105d32a260) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05ff393d40c96dc95067be881dc41266') in 0.054627 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/kitchenCabinetUpperDouble.obj
+  artifactKey: Guid(f21172f41e9a64546957795c395b926f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/kitchenCabinetUpperDouble.obj using Guid(f21172f41e9a64546957795c395b926f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2aabf6c0203997b229bdb9bcc2632619') in 0.083669 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/kitchenCabinetUpperCorner.obj
+  artifactKey: Guid(95cab743178e14c978f7c14cf06e28e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/kitchenCabinetUpperCorner.obj using Guid(95cab743178e14c978f7c14cf06e28e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f564f364d8ed223d2618d90e9bf8291') in 0.034784 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.068311 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/kitchenCabinetUpperLow.obj
+  artifactKey: Guid(7254bd3968bac47fab6f9dc30574f16c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/kitchenCabinetUpperLow.obj using Guid(7254bd3968bac47fab6f9dc30574f16c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcad46c1cbf61122819ccee9fb689e75') in 0.052335 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/kitchenFridge.obj
+  artifactKey: Guid(40432bc6b6a31461b896870dd45e03c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/kitchenFridge.obj using Guid(40432bc6b6a31461b896870dd45e03c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db0794b091e4ca65991d270c00044e29') in 0.071386 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/kitchenFridgeLarge.obj
+  artifactKey: Guid(fa25c2837d5c440b3968c2ab571747af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/kitchenFridgeLarge.obj using Guid(fa25c2837d5c440b3968c2ab571747af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d7743bbc62e6f4298da20f90b2d617c') in 0.071869 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.813150 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/kitchenFridgeSmall.obj
+  artifactKey: Guid(c9e2bd46ea19f49e092fda795dc72920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/kitchenFridgeSmall.obj using Guid(c9e2bd46ea19f49e092fda795dc72920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69f4ef90f2481cf2e4686966cdd7e5b9') in 0.087207 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/kitchenStoveElectric.obj
+  artifactKey: Guid(7f665414422b64da1a1c4b8e40268881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/kitchenStoveElectric.obj using Guid(7f665414422b64da1a1c4b8e40268881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f423503d10669c64db1c3f806951c45') in 0.080842 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/kitchenSink.obj
+  artifactKey: Guid(fb3ab0d1fbff54c9492d5a81f3596e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/kitchenSink.obj using Guid(fb3ab0d1fbff54c9492d5a81f3596e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78cfcfdf1b0e441fb20f8fd0ffa280ba') in 0.080931 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/lampSquareTable.obj
+  artifactKey: Guid(1b949b547f2e74c8f84bbbaad4a74b6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/lampSquareTable.obj using Guid(1b949b547f2e74c8f84bbbaad4a74b6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e06a0c73999d3dc74199bafa85cbea56') in 0.043675 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/lampSquareCeiling.obj
+  artifactKey: Guid(799cbf673b77f4d7abace503edcf7a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/lampSquareCeiling.obj using Guid(799cbf673b77f4d7abace503edcf7a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0175ca170bbf9b83b08ef87cb83bfecd') in 0.047541 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.138030 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/lampWall.obj
+  artifactKey: Guid(9723beb205bf74c759f227da096b35fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/lampWall.obj using Guid(9723beb205bf74c759f227da096b35fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f489400388371d24d7909acbf3a6a049') in 0.060540 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/loungeChairRelax.obj
+  artifactKey: Guid(f9d39db7856f544db8f02d250ba8d1e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/loungeChairRelax.obj using Guid(f9d39db7856f544db8f02d250ba8d1e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b107711eaf1dc2031294d78074331f5b') in 0.063779 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.045016 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/loungeDesignSofa.obj
+  artifactKey: Guid(c03230ac960874d86a0a232b92e8ecbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/loungeDesignSofa.obj using Guid(c03230ac960874d86a0a232b92e8ecbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea8bf09af61defa5580cc4d4371fc2f5') in 0.038413 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/loungeSofa.obj
+  artifactKey: Guid(0828a39114dfe42109a468a9b84eabff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/loungeSofa.obj using Guid(0828a39114dfe42109a468a9b84eabff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51ceb07baac9299b21000ac7bfdfff11') in 0.044999 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/loungeSofaLong.obj
+  artifactKey: Guid(0cf1254e1d31641038acc942175fb0d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/loungeSofaLong.obj using Guid(0cf1254e1d31641038acc942175fb0d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebaec02cec04b327e7f900c86a2aa9c3') in 0.043394 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.152020 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/loungeSofaOttoman.obj
+  artifactKey: Guid(355eee17f464c486abd163a85ee51f82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/loungeSofaOttoman.obj using Guid(355eee17f464c486abd163a85ee51f82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7dc58825aaad4359d4666e366027a58') in 0.051683 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/pillow.obj
+  artifactKey: Guid(e2d03351bd62440faa1a12f948873a71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/pillow.obj using Guid(e2d03351bd62440faa1a12f948873a71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a710fe0a646382a6e7a0ef852c96d50e') in 0.032869 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.104441 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/pillowLong.obj
+  artifactKey: Guid(e17859d6fa9474ff4b1c1f06770d8df1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/pillowLong.obj using Guid(e17859d6fa9474ff4b1c1f06770d8df1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ca3d883c798aeb060f00f8a917b2df3') in 0.051457 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000099 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/plantSmall2.obj
+  artifactKey: Guid(0469d893fe15c4dcba3b468c912a02c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/plantSmall2.obj using Guid(0469d893fe15c4dcba3b468c912a02c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a46d73d3eef4ba7530c015977655bf1') in 0.065772 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/plantSmall3.obj
+  artifactKey: Guid(8a00917876f7a4c7fb0de9d731bcda24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/plantSmall3.obj using Guid(8a00917876f7a4c7fb0de9d731bcda24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac6a84694f14bfe09f09b0f75c657886') in 0.042347 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003806 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/radio.obj
+  artifactKey: Guid(065b0abfc3f5741caa28ca00badea105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/radio.obj using Guid(065b0abfc3f5741caa28ca00badea105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddf91f19a4e193be48bad6a7137610ef') in 0.049319 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/rugRounded.obj
+  artifactKey: Guid(450fb697e8ac548c8ab42724795fa427) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/rugRounded.obj using Guid(450fb697e8ac548c8ab42724795fa427) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '450b066bf4568dec401c0144d4597d6c') in 0.047632 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.599463 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/rugSquare.obj
+  artifactKey: Guid(121ab86e8d3eb491b8b9f3bda1e0af35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/rugSquare.obj using Guid(121ab86e8d3eb491b8b9f3bda1e0af35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ffccd62f4f46aadd272e03637763c8b') in 0.057317 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/sideTable.obj
+  artifactKey: Guid(56f006412628c48ee8fa108bb4f05ec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/sideTable.obj using Guid(56f006412628c48ee8fa108bb4f05ec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '222b46893bde3a60792cbf54173848fc') in 0.047436 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/showerRound.obj
+  artifactKey: Guid(e1648780009f04028b95da3eafae1605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/showerRound.obj using Guid(e1648780009f04028b95da3eafae1605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb5e42a2f72268ecab7a94630b81e30c') in 0.101246 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.198382 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/speaker.obj
+  artifactKey: Guid(8a891eceef16c45c587670f138c096e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/speaker.obj using Guid(8a891eceef16c45c587670f138c096e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab9886cdae79e044f93d0a06f9063d19') in 0.058201 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/stairs.obj
+  artifactKey: Guid(a9acb776b671143b7af229fafc1442fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/stairs.obj using Guid(a9acb776b671143b7af229fafc1442fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1f874bb88e68c119524640f07843c6b') in 0.058093 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/stoolBar.obj
+  artifactKey: Guid(e866deb1483ad4d9c8882b8384c0c387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/stoolBar.obj using Guid(e866deb1483ad4d9c8882b8384c0c387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7736f94da78fddbd1ed6419504d63c06') in 0.045201 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/stoolBarSquare.obj
+  artifactKey: Guid(53f953ead88864720acad2b46c58d3a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/stoolBarSquare.obj using Guid(53f953ead88864720acad2b46c58d3a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '850ca0a16f3cb2dc41b24fbd3850798d') in 0.044253 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/table.obj
+  artifactKey: Guid(a88a91a9dfa994072a95ad19ed50818a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/table.obj using Guid(a88a91a9dfa994072a95ad19ed50818a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1f76679cec0d9eb4972004cd525a056') in 0.038312 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.679856 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/tableCoffee.obj
+  artifactKey: Guid(af81960efe1a8475689022f819d56e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/tableCoffee.obj using Guid(af81960efe1a8475689022f819d56e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a8232eb3f2fa274504887b09ca23d46') in 0.055288 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/tableCoffeeGlassSquare.obj
+  artifactKey: Guid(208f6b7fab14e45f3b1b33bb95ec2acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/tableCoffeeGlassSquare.obj using Guid(208f6b7fab14e45f3b1b33bb95ec2acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e44f3c254e1a5a2f015faebc1e6124ec') in 0.041772 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.960803 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/tableCrossCloth.obj
+  artifactKey: Guid(6aea85b57ed424b5c89f619b9738850d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/tableCrossCloth.obj using Guid(6aea85b57ed424b5c89f619b9738850d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31a4dfedd0b0474d428570c4c6248a8c') in 0.067830 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/televisionAntenna.obj
+  artifactKey: Guid(46eaa597bb2344ffcaa60ebef3c7d11c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/televisionAntenna.obj using Guid(46eaa597bb2344ffcaa60ebef3c7d11c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c032a8d75f23867d5f2e25bd333e5a4d') in 0.042269 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.769112 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/televisionVintage.obj
+  artifactKey: Guid(bf7f6f15438e34ce29a469e5b3c7ea92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/televisionVintage.obj using Guid(bf7f6f15438e34ce29a469e5b3c7ea92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '250020de01e74c3b93762191628db376') in 0.078561 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/toiletSquare.obj
+  artifactKey: Guid(84f6d5f2236b641fba34484014b71035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/toiletSquare.obj using Guid(84f6d5f2236b641fba34484014b71035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee8e2d1edaba449fc197a930609c702c') in 0.055336 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/trashcan.obj
+  artifactKey: Guid(7840a81b2aca049a0848382e9621bb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/trashcan.obj using Guid(7840a81b2aca049a0848382e9621bb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b20a8a4eb815101f80a50357276e6d96') in 0.037606 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.588512 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/wall.obj
+  artifactKey: Guid(7dc67288856c64cf08274743b4ed10d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/wall.obj using Guid(7dc67288856c64cf08274743b4ed10d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f41204c4d3409d6acacd43a27f9c3a8') in 0.060468 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/wallCornerRond.obj
+  artifactKey: Guid(696d3e0dc2c8644db9390b55e9e4be31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/wallCornerRond.obj using Guid(696d3e0dc2c8644db9390b55e9e4be31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3767d8c5e3f5cb225b435ea4d9026cac') in 0.058214 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/wallDoorway.obj
+  artifactKey: Guid(601be708545294ae59193a7f5faedaf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/wallDoorway.obj using Guid(601be708545294ae59193a7f5faedaf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ecde77c8ffdcfd595134e74c17e5f4d') in 0.042706 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.062922 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/wallHalf.obj
+  artifactKey: Guid(cccef7280a9154eb59725855bb12fcec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/wallHalf.obj using Guid(cccef7280a9154eb59725855bb12fcec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '105baa1de1e70bf728d747bb156696ac') in 0.072795 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/wallWindowSlide.obj
+  artifactKey: Guid(70a578374812a496c8716773639580f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/wallWindowSlide.obj using Guid(70a578374812a496c8716773639580f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8db17a46aaa61e0e8a3c42b5c4fd1d5d') in 0.100996 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/washerDryerStacked.obj
+  artifactKey: Guid(32bb7a212c4e24a75967a359315ecabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/washerDryerStacked.obj using Guid(32bb7a212c4e24a75967a359315ecabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ad89812680a9d7af1a647c4e272196b') in 0.105467 seconds 
+========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.003638 seconds.
+Registered in 0.001930 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image /Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/imani/Desktop/game dev/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/imani/Desktop/game dev/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.86 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.64 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.628 seconds
+- Completed reload, in  2.780 seconds
 Domain Reload Profiling:
-	ReloadAssembly (2630ms)
-		BeginReloadAssembly (349ms)
+	ReloadAssembly (2781ms)
+		BeginReloadAssembly (552ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (18ms)
+			DisableScriptedObjects (25ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (155ms)
-		EndReloadAssembly (2010ms)
-			LoadAssemblies (148ms)
+			CreateAndSetChildDomain (289ms)
+		EndReloadAssembly (1936ms)
+			LoadAssemblies (218ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (942ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (159ms)
-			SetupLoadedEditorAssemblies (647ms)
+			SetupTypeCache (795ms)
+			ReleaseScriptCaches (4ms)
+			RebuildScriptCaches (109ms)
+			SetupLoadedEditorAssemblies (723ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (16ms)
+				InitializePlatformSupportModulesInManaged (17ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (143ms)
-				ProcessInitializeOnLoadAttributes (440ms)
-				ProcessInitializeOnLoadMethodAttributes (42ms)
-				AfterProcessingInitializeOnLoad (3ms)
+				BeforeProcessingInitializeOnLoad (66ms)
+				ProcessInitializeOnLoadAttributes (546ms)
+				ProcessInitializeOnLoadMethodAttributes (88ms)
+				AfterProcessingInitializeOnLoad (5ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (16ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 2.84 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 7.19 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3045 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 17 unused Assets / (68.0 KB). Loaded Objects now: 3513.
-Memory consumption went from 104.7 MB to 104.6 MB.
-Total: 4.289790 ms (FindLiveObjects: 0.382217 ms CreateObjectMapping: 0.396308 ms MarkObjects: 3.394373 ms  DeleteObjects: 0.115418 ms)
+Unloading 3112 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 17 unused Assets / (68.5 KB). Loaded Objects now: 3628.
+Memory consumption went from 124.4 MB to 124.3 MB.
+Total: 9.043809 ms (FindLiveObjects: 0.365778 ms CreateObjectMapping: 0.428693 ms MarkObjects: 8.012691 ms  DeleteObjects: 0.233863 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -227,104 +929,48 @@ AssetImportParameters requested are different than current active one (requested
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.006393 seconds.
+Registered in 0.001833 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image /Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/imani/Desktop/game dev/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/imani/Desktop/game dev/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 1.94 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.201 seconds
+- Completed reload, in  1.599 seconds
 Domain Reload Profiling:
-	ReloadAssembly (3203ms)
-		BeginReloadAssembly (310ms)
+	ReloadAssembly (1601ms)
+		BeginReloadAssembly (167ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (12ms)
+			DisableScriptedObjects (8ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (140ms)
-		EndReloadAssembly (2600ms)
-			LoadAssemblies (153ms)
+			CreateAndSetChildDomain (69ms)
+		EndReloadAssembly (1296ms)
+			LoadAssemblies (73ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (989ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (165ms)
-			SetupLoadedEditorAssemblies (1085ms)
+			SetupTypeCache (391ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (61ms)
+			SetupLoadedEditorAssemblies (665ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (36ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (169ms)
-				ProcessInitializeOnLoadAttributes (810ms)
-				ProcessInitializeOnLoadMethodAttributes (63ms)
-				AfterProcessingInitializeOnLoad (4ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (13ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 2.40 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3045 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 17 unused Assets / (67.9 KB). Loaded Objects now: 3516.
-Memory consumption went from 104.4 MB to 104.3 MB.
-Total: 6.565724 ms (FindLiveObjects: 0.392629 ms CreateObjectMapping: 0.178700 ms MarkObjects: 5.827126 ms  DeleteObjects: 0.165141 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006735 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image /Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.67 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.282 seconds
-Domain Reload Profiling:
-	ReloadAssembly (2284ms)
-		BeginReloadAssembly (384ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (32ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (159ms)
-		EndReloadAssembly (1627ms)
-			LoadAssemblies (252ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (606ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (109ms)
-			SetupLoadedEditorAssemblies (619ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (14ms)
+				InitializePlatformSupportModulesInManaged (11ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (108ms)
-				ProcessInitializeOnLoadAttributes (461ms)
-				ProcessInitializeOnLoadMethodAttributes (31ms)
-				AfterProcessingInitializeOnLoad (3ms)
+				BeforeProcessingInitializeOnLoad (73ms)
+				ProcessInitializeOnLoadAttributes (506ms)
+				ProcessInitializeOnLoadMethodAttributes (70ms)
+				AfterProcessingInitializeOnLoad (2ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (9ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 3.05 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 1.98 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3045 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 17 unused Assets / (68.0 KB). Loaded Objects now: 3519.
-Memory consumption went from 104.4 MB to 104.3 MB.
-Total: 3.245183 ms (FindLiveObjects: 0.229087 ms CreateObjectMapping: 0.141888 ms MarkObjects: 2.696965 ms  DeleteObjects: 0.175689 ms)
+Unloading 3112 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 17 unused Assets / (68.3 KB). Loaded Objects now: 3631.
+Memory consumption went from 124.4 MB to 124.3 MB.
+Total: 6.714600 ms (FindLiveObjects: 0.905350 ms CreateObjectMapping: 0.494167 ms MarkObjects: 5.028406 ms  DeleteObjects: 0.283103 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -337,50 +983,62 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
+Received Import Request.
+  Time since last request: 2367.984601 seconds.
+  path: Assets/Scenes/SampleScene 1.unity
+  artifactKey: Guid(7398f7c97d2064a139228341092ba69f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene 1.unity using Guid(7398f7c97d2064a139228341092ba69f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d2878c8a00400367112a51ce0173dbb') in 0.023854 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.411129 seconds.
+  path: Assets/Scenes/Ikea.unity
+  artifactKey: Guid(dbb4fe39cb49841c6b4d3789b1197f16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Ikea.unity using Guid(dbb4fe39cb49841c6b4d3789b1197f16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ae57e55bf336d5cca2a3b7dc2959a82') in 0.004573 seconds 
+========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.004040 seconds.
+Registered in 0.001759 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image /Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/imani/Desktop/game dev/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/imani/Desktop/game dev/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 1.44 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.785 seconds
+- Completed reload, in  1.444 seconds
 Domain Reload Profiling:
-	ReloadAssembly (2786ms)
-		BeginReloadAssembly (247ms)
+	ReloadAssembly (1445ms)
+		BeginReloadAssembly (289ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (10ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (109ms)
-		EndReloadAssembly (2301ms)
-			LoadAssemblies (111ms)
+			CreateAndSetChildDomain (146ms)
+		EndReloadAssembly (977ms)
+			LoadAssemblies (123ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (842ms)
-			ReleaseScriptCaches (3ms)
-			RebuildScriptCaches (152ms)
-			SetupLoadedEditorAssemblies (962ms)
+			SetupTypeCache (395ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (55ms)
+			SetupLoadedEditorAssemblies (364ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (26ms)
+				InitializePlatformSupportModulesInManaged (10ms)
 				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (155ms)
-				ProcessInitializeOnLoadAttributes (692ms)
-				ProcessInitializeOnLoadMethodAttributes (82ms)
-				AfterProcessingInitializeOnLoad (4ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (60ms)
+				ProcessInitializeOnLoadAttributes (262ms)
+				ProcessInitializeOnLoadMethodAttributes (29ms)
+				AfterProcessingInitializeOnLoad (1ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (13ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 2.19 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 2.59 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3045 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 17 unused Assets / (68.0 KB). Loaded Objects now: 3522.
-Memory consumption went from 104.4 MB to 104.3 MB.
-Total: 6.921839 ms (FindLiveObjects: 0.369523 ms CreateObjectMapping: 0.445525 ms MarkObjects: 5.942873 ms  DeleteObjects: 0.162295 ms)
+Unloading 3112 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 17 unused Assets / (68.4 KB). Loaded Objects now: 3634.
+Memory consumption went from 124.4 MB to 124.3 MB.
+Total: 3.586224 ms (FindLiveObjects: 0.271555 ms CreateObjectMapping: 0.206818 ms MarkObjects: 2.950764 ms  DeleteObjects: 0.156071 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -393,112 +1051,56 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
+Received Import Request.
+  Time since last request: 380.525009 seconds.
+  path: Assets/Audio/ikea.mp3
+  artifactKey: Guid(3ebcacb330d8345dbb59f607e105f7f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/ikea.mp3 using Guid(3ebcacb330d8345dbb59f607e105f7f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36a2344336cdb5164d615512e0c2eff6') in 1.211293 seconds 
+========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.004507 seconds.
+Registered in 0.002275 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image /Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/imani/Desktop/game dev/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/imani/Desktop/game dev/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.79 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.924 seconds
+- Completed reload, in  1.463 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1926ms)
-		BeginReloadAssembly (306ms)
+	ReloadAssembly (1464ms)
+		BeginReloadAssembly (175ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (14ms)
+			DisableScriptedObjects (9ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (135ms)
-		EndReloadAssembly (1405ms)
-			LoadAssemblies (125ms)
+			CreateAndSetChildDomain (82ms)
+		EndReloadAssembly (1134ms)
+			LoadAssemblies (77ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (581ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (86ms)
-			SetupLoadedEditorAssemblies (548ms)
+			SetupTypeCache (456ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (72ms)
+			SetupLoadedEditorAssemblies (444ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (13ms)
+				InitializePlatformSupportModulesInManaged (11ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (104ms)
-				ProcessInitializeOnLoadAttributes (379ms)
-				ProcessInitializeOnLoadMethodAttributes (48ms)
-				AfterProcessingInitializeOnLoad (3ms)
+				BeforeProcessingInitializeOnLoad (71ms)
+				ProcessInitializeOnLoadAttributes (324ms)
+				ProcessInitializeOnLoadMethodAttributes (35ms)
+				AfterProcessingInitializeOnLoad (2ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (7ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.36 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 1.19 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3045 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 17 unused Assets / (68.0 KB). Loaded Objects now: 3525.
-Memory consumption went from 104.4 MB to 104.3 MB.
-Total: 3.471269 ms (FindLiveObjects: 0.236890 ms CreateObjectMapping: 0.127073 ms MarkObjects: 2.983701 ms  DeleteObjects: 0.122267 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 21349.353683 seconds.
-  path: Assets/Scripts/CameraController.cs
-  artifactKey: Guid(62f1d4c7160f34071895897fa36583a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/CameraController.cs using Guid(62f1d4c7160f34071895897fa36583a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36cd34aaefc8d5ab4d50804906f101fd') in 0.429314 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004785 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image /Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.95 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.089 seconds
-Domain Reload Profiling:
-	ReloadAssembly (3092ms)
-		BeginReloadAssembly (293ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (13ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (129ms)
-		EndReloadAssembly (2534ms)
-			LoadAssemblies (124ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (951ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (174ms)
-			SetupLoadedEditorAssemblies (1026ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (29ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (157ms)
-				ProcessInitializeOnLoadAttributes (775ms)
-				ProcessInitializeOnLoadMethodAttributes (59ms)
-				AfterProcessingInitializeOnLoad (4ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (14ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 3.99 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3045 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 17 unused Assets / (68.2 KB). Loaded Objects now: 3528.
-Memory consumption went from 108.5 MB to 108.5 MB.
-Total: 4.778822 ms (FindLiveObjects: 0.277195 ms CreateObjectMapping: 0.187467 ms MarkObjects: 4.155193 ms  DeleteObjects: 0.157024 ms)
+Unloading 3112 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 17 unused Assets / (68.2 KB). Loaded Objects now: 3639.
+Memory consumption went from 128.6 MB to 128.5 MB.
+Total: 2.997265 ms (FindLiveObjects: 0.219093 ms CreateObjectMapping: 0.114821 ms MarkObjects: 2.569550 ms  DeleteObjects: 0.092729 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -513,216 +1115,48 @@ AssetImportParameters requested are different than current active one (requested
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.004133 seconds.
+Registered in 0.002069 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image /Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/imani/Desktop/game dev/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/imani/Desktop/game dev/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 1.25 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.147 seconds
+- Completed reload, in  1.451 seconds
 Domain Reload Profiling:
-	ReloadAssembly (2148ms)
-		BeginReloadAssembly (267ms)
+	ReloadAssembly (1452ms)
+		BeginReloadAssembly (168ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (14ms)
+			DisableScriptedObjects (9ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (121ms)
-		EndReloadAssembly (1646ms)
-			LoadAssemblies (114ms)
+			CreateAndSetChildDomain (71ms)
+		EndReloadAssembly (1143ms)
+			LoadAssemblies (80ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (681ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (93ms)
-			SetupLoadedEditorAssemblies (642ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (21ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (105ms)
-				ProcessInitializeOnLoadAttributes (469ms)
-				ProcessInitializeOnLoadMethodAttributes (42ms)
-				AfterProcessingInitializeOnLoad (2ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (9ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 2.24 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3045 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 17 unused Assets / (68.1 KB). Loaded Objects now: 3531.
-Memory consumption went from 108.6 MB to 108.5 MB.
-Total: 5.343440 ms (FindLiveObjects: 0.309687 ms CreateObjectMapping: 0.259243 ms MarkObjects: 4.621506 ms  DeleteObjects: 0.151504 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003852 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image /Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 1.43 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.806 seconds
-Domain Reload Profiling:
-	ReloadAssembly (2808ms)
-		BeginReloadAssembly (270ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (15ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (115ms)
-		EndReloadAssembly (2287ms)
-			LoadAssemblies (116ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (950ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (153ms)
-			SetupLoadedEditorAssemblies (889ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (30ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (156ms)
-				ProcessInitializeOnLoadAttributes (643ms)
-				ProcessInitializeOnLoadMethodAttributes (52ms)
-				AfterProcessingInitializeOnLoad (5ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (12ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 4.03 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3045 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 17 unused Assets / (68.1 KB). Loaded Objects now: 3534.
-Memory consumption went from 108.6 MB to 108.5 MB.
-Total: 5.085629 ms (FindLiveObjects: 0.276629 ms CreateObjectMapping: 0.173241 ms MarkObjects: 4.460540 ms  DeleteObjects: 0.173089 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004957 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image /Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.95 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.811 seconds
-Domain Reload Profiling:
-	ReloadAssembly (2814ms)
-		BeginReloadAssembly (307ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (15ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (131ms)
-		EndReloadAssembly (2249ms)
-			LoadAssemblies (133ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (878ms)
-			ReleaseScriptCaches (3ms)
-			RebuildScriptCaches (143ms)
-			SetupLoadedEditorAssemblies (912ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (27ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (149ms)
-				ProcessInitializeOnLoadAttributes (669ms)
-				ProcessInitializeOnLoadMethodAttributes (60ms)
-				AfterProcessingInitializeOnLoad (4ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (12ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 2.20 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3045 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 17 unused Assets / (68.0 KB). Loaded Objects now: 3537.
-Memory consumption went from 108.6 MB to 108.5 MB.
-Total: 7.739262 ms (FindLiveObjects: 0.419917 ms CreateObjectMapping: 0.338514 ms MarkObjects: 6.827460 ms  DeleteObjects: 0.151529 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003356 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image /Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.501 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1502ms)
-		BeginReloadAssembly (294ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (13ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (131ms)
-		EndReloadAssembly (1057ms)
-			LoadAssemblies (120ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (426ms)
+			SetupTypeCache (439ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (59ms)
-			SetupLoadedEditorAssemblies (414ms)
+			RebuildScriptCaches (65ms)
+			SetupLoadedEditorAssemblies (477ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (12ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (73ms)
-				ProcessInitializeOnLoadAttributes (299ms)
-				ProcessInitializeOnLoadMethodAttributes (27ms)
-				AfterProcessingInitializeOnLoad (2ms)
+				BeforeProcessingInitializeOnLoad (67ms)
+				ProcessInitializeOnLoadAttributes (356ms)
+				ProcessInitializeOnLoadMethodAttributes (40ms)
+				AfterProcessingInitializeOnLoad (1ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (8ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.62 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 1.60 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3045 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 17 unused Assets / (67.9 KB). Loaded Objects now: 3540.
-Memory consumption went from 108.6 MB to 108.5 MB.
-Total: 4.511916 ms (FindLiveObjects: 0.305062 ms CreateObjectMapping: 0.314599 ms MarkObjects: 3.744080 ms  DeleteObjects: 0.146774 ms)
+Unloading 3112 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 17 unused Assets / (68.5 KB). Loaded Objects now: 3642.
+Memory consumption went from 128.6 MB to 128.5 MB.
+Total: 3.717016 ms (FindLiveObjects: 0.315113 ms CreateObjectMapping: 0.178434 ms MarkObjects: 3.093877 ms  DeleteObjects: 0.128006 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -734,505 +1168,3 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003247 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image /Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 1.68 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.532 seconds
-Domain Reload Profiling:
-	ReloadAssembly (2534ms)
-		BeginReloadAssembly (236ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (10ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (105ms)
-		EndReloadAssembly (2084ms)
-			LoadAssemblies (105ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (673ms)
-			ReleaseScriptCaches (3ms)
-			RebuildScriptCaches (144ms)
-			SetupLoadedEditorAssemblies (949ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (31ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (163ms)
-				ProcessInitializeOnLoadAttributes (687ms)
-				ProcessInitializeOnLoadMethodAttributes (60ms)
-				AfterProcessingInitializeOnLoad (4ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (14ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 3.40 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3045 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 17 unused Assets / (68.1 KB). Loaded Objects now: 3543.
-Memory consumption went from 108.6 MB to 108.5 MB.
-Total: 5.880023 ms (FindLiveObjects: 0.373546 ms CreateObjectMapping: 0.299257 ms MarkObjects: 5.013386 ms  DeleteObjects: 0.192227 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004696 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image /Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 1.55 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.011 seconds
-Domain Reload Profiling:
-	ReloadAssembly (3013ms)
-		BeginReloadAssembly (274ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (12ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (116ms)
-		EndReloadAssembly (2396ms)
-			LoadAssemblies (155ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (960ms)
-			ReleaseScriptCaches (4ms)
-			RebuildScriptCaches (143ms)
-			SetupLoadedEditorAssemblies (945ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (31ms)
-				SetLoadedEditorAssemblies (2ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (159ms)
-				ProcessInitializeOnLoadAttributes (687ms)
-				ProcessInitializeOnLoadMethodAttributes (59ms)
-				AfterProcessingInitializeOnLoad (5ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (17ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 3.68 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3045 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 17 unused Assets / (68.0 KB). Loaded Objects now: 3546.
-Memory consumption went from 108.6 MB to 108.5 MB.
-Total: 4.959951 ms (FindLiveObjects: 0.259635 ms CreateObjectMapping: 0.183415 ms MarkObjects: 4.379219 ms  DeleteObjects: 0.135893 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 234.774074 seconds.
-  path: Assets/Scenes/SampleScene.unity
-  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50860a830649222bdd7abbafa5e54c8a') in 0.011223 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 14.985887 seconds.
-  path: Assets/Scenes/Flower.unity
-  artifactKey: Guid(82d6bafbeed294c7a82f1833b5a3d294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Flower.unity using Guid(82d6bafbeed294c7a82f1833b5a3d294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6442f07db0d65953519b2a29307361a3') in 0.001968 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 19.146741 seconds.
-  path: Assets/Models/Stone_Models/GLTF format
-  artifactKey: Guid(60b7738f94e9d481187638f1b170deae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Stone_Models/GLTF format using Guid(60b7738f94e9d481187638f1b170deae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a30e630956e3eab0f6d3395c9cf3397a') in 0.002460 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 7.953193 seconds.
-  path: Assets/Models/Stone_Models/GLTF format/blockCurve.glb
-  artifactKey: Guid(4ff032f1b353a44ceabd38af3be6af1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Stone_Models/GLTF format/blockCurve.glb using Guid(4ff032f1b353a44ceabd38af3be6af1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3c94ddf2c6c09224eab65583374d7fb') in 1.272762 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 18.467652 seconds.
-  path: Assets/Scenes/SampleScene 1.unity
-  artifactKey: Guid(7398f7c97d2064a139228341092ba69f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleScene 1.unity using Guid(7398f7c97d2064a139228341092ba69f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d2878c8a00400367112a51ce0173dbb') in 0.001545 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 13.805900 seconds.
-  path: Assets/Scenes/Flower.unity
-  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Flower.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e09946b0441f36cb9ca8b92bc17586c4') in 0.002893 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 19.197809 seconds.
-  path: Assets/Models/Stone_Models/FBX format/blockSnow.fbx
-  artifactKey: Guid(f4fab5c587b13452792d0d58688afdf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Stone_Models/FBX format/blockSnow.fbx using Guid(f4fab5c587b13452792d0d58688afdf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1aa3a0c4ec625aa30e0669f2d39de228') in 0.940563 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000116 seconds.
-  path: Assets/Models/Stone_Models/FBX format/blockSnowCliffCorner.fbx
-  artifactKey: Guid(b7f511bd37d1e452a855e42e967183dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Stone_Models/FBX format/blockSnowCliffCorner.fbx using Guid(b7f511bd37d1e452a855e42e967183dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '847592acbfa0ad9c31f5b596fc1e9b11') in 0.079561 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000084 seconds.
-  path: Assets/Models/Stone_Models/FBX format/blockSnowCornerSmall.fbx
-  artifactKey: Guid(85daa85951f4b4c47bedb5826b897b62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Stone_Models/FBX format/blockSnowCornerSmall.fbx using Guid(85daa85951f4b4c47bedb5826b897b62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '603eecd2beff225a22153efbb862ee34') in 0.066779 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000118 seconds.
-  path: Assets/Models/Stone_Models/FBX format/blockSnowCurve.fbx
-  artifactKey: Guid(f1f6764efdeb74afdbf336884b898952) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Stone_Models/FBX format/blockSnowCurve.fbx using Guid(f1f6764efdeb74afdbf336884b898952) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb740f7cf48d434d3a821aeb5178a27e') in 0.057508 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000083 seconds.
-  path: Assets/Models/Stone_Models/FBX format/blockSnowCurveLow.fbx
-  artifactKey: Guid(3e8d2319bc5584a048319e9fc0328869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Stone_Models/FBX format/blockSnowCurveLow.fbx using Guid(3e8d2319bc5584a048319e9fc0328869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3094eba7a3794b21e3d132236e67e4b6') in 0.056297 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000112 seconds.
-  path: Assets/Models/Stone_Models/FBX format/blockSnowCornerLarge.fbx
-  artifactKey: Guid(a67f840348cc44cf0bb8332c22292ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Stone_Models/FBX format/blockSnowCornerLarge.fbx using Guid(a67f840348cc44cf0bb8332c22292ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '150f9e4c4e01d3b59a36d2c920615ad5') in 0.051985 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000218 seconds.
-  path: Assets/Models/Stone_Models/FBX format/blockSnowCurveHalf.fbx
-  artifactKey: Guid(af747bb67f30a4679b2b77d2c88c83f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Stone_Models/FBX format/blockSnowCurveHalf.fbx using Guid(af747bb67f30a4679b2b77d2c88c83f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0450b0dc14a1da63f368baf29a7e0c8f') in 0.050673 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000090 seconds.
-  path: Assets/Models/Stone_Models/FBX format/blockSnowHalf.fbx
-  artifactKey: Guid(52cdca6a4a45346619672bd7c2dc32f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Stone_Models/FBX format/blockSnowHalf.fbx using Guid(52cdca6a4a45346619672bd7c2dc32f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aceba119715ecb088e2e2a329efd9491') in 0.051662 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000091 seconds.
-  path: Assets/Models/Stone_Models/FBX format/blockSnowHexagonLow.fbx
-  artifactKey: Guid(fce97d1f5ef33478690aefe18ed95234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Stone_Models/FBX format/blockSnowHexagonLow.fbx using Guid(fce97d1f5ef33478690aefe18ed95234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '302616fe95983b264f2dbc7d7d321f65') in 0.059996 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000228 seconds.
-  path: Assets/Models/Stone_Models/FBX format/blockSnowEnd.fbx
-  artifactKey: Guid(9555c5b14687347888eb5d8692a39e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Stone_Models/FBX format/blockSnowEnd.fbx using Guid(9555c5b14687347888eb5d8692a39e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1e510a5f4143bbd35447ef2753fd9d8') in 0.062269 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000224 seconds.
-  path: Assets/Models/Stone_Models/FBX format/blockSnowHexagon.fbx
-  artifactKey: Guid(01b37baef77ca4f849f64d822d85ef10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Stone_Models/FBX format/blockSnowHexagon.fbx using Guid(01b37baef77ca4f849f64d822d85ef10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '130ece8f82fa9c497c64278bde59d745') in 0.060196 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004301 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image /Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 1.21 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.874 seconds
-Domain Reload Profiling:
-	ReloadAssembly (2877ms)
-		BeginReloadAssembly (516ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (21ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (246ms)
-		EndReloadAssembly (2064ms)
-			LoadAssemblies (237ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (771ms)
-			ReleaseScriptCaches (3ms)
-			RebuildScriptCaches (200ms)
-			SetupLoadedEditorAssemblies (735ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (18ms)
-				SetLoadedEditorAssemblies (2ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (116ms)
-				ProcessInitializeOnLoadAttributes (527ms)
-				ProcessInitializeOnLoadMethodAttributes (69ms)
-				AfterProcessingInitializeOnLoad (3ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (9ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 11.54 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3093 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 17 unused Assets / (68.0 KB). Loaded Objects now: 3645.
-Memory consumption went from 120.9 MB to 120.8 MB.
-Total: 13.600695 ms (FindLiveObjects: 0.936604 ms CreateObjectMapping: 2.524557 ms MarkObjects: 9.847050 ms  DeleteObjects: 0.288906 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-<<<<<<< HEAD
-Received Import Request.
-  Time since last request: 0.000086 seconds.
-  path: Assets/Models/DAE format/blockSnowCurveLow.dae
-  artifactKey: Guid(6e7fb594f11a549749a75ddafc0bd15e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/DAE format/blockSnowCurveLow.dae using Guid(6e7fb594f11a549749a75ddafc0bd15e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4a513a0c58746daa3b8ef3af8d53c0d') in 0.072227 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.198573 seconds.
-  path: Assets/Models/DAE format/doorOpen.dae
-  artifactKey: Guid(fa5f0a71933004912a42feb0906fe316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/DAE format/doorOpen.dae using Guid(fa5f0a71933004912a42feb0906fe316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63e43e033c8f6c79367fdb098307ed9a') in 0.031077 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000129 seconds.
-  path: Assets/Models/DAE format/fenceCornerCurved.dae
-  artifactKey: Guid(3827de80ade5742a78580bfe42013d23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/DAE format/fenceCornerCurved.dae using Guid(3827de80ade5742a78580bfe42013d23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7b6993b9c8c5cc129ceba924b204dae') in 0.067329 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000086 seconds.
-  path: Assets/Models/DAE format/fenceLowCorner.dae
-  artifactKey: Guid(76de06c6ac4774b3ab411b48837399fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/DAE format/fenceLowCorner.dae using Guid(76de06c6ac4774b3ab411b48837399fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6546ceaae4d8fc6f01a8632701a3a264') in 0.088608 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000216 seconds.
-  path: Assets/Models/DAE format/fenceCorner.dae
-  artifactKey: Guid(cd0d51913121d492cbc82fcc9d9064b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/DAE format/fenceCorner.dae using Guid(cd0d51913121d492cbc82fcc9d9064b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0550f080ff9c38071003772bb9acfc7e') in 0.080036 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.784042 seconds.
-  path: Assets/Models/DAE format/fenceLowCornerCurved.dae
-  artifactKey: Guid(98f52736464c34c2f9883121a3b45757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/DAE format/fenceLowCornerCurved.dae using Guid(98f52736464c34c2f9883121a3b45757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41762e1f128b6e1a9d1851d8a357e10d') in 0.039980 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000160 seconds.
-  path: Assets/Models/DAE format/hedge.dae
-  artifactKey: Guid(cac2f68838f524c64abc90949b8a27b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/DAE format/hedge.dae using Guid(cac2f68838f524c64abc90949b8a27b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55204f28dcdbdf111c6b95c199565bd7') in 0.061989 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000240 seconds.
-  path: Assets/Models/DAE format/flowersLow.dae
-  artifactKey: Guid(8f6ac740e04b745fd91ca1680b7d6ffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/DAE format/flowersLow.dae using Guid(8f6ac740e04b745fd91ca1680b7d6ffb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a866a4d3e04ef976d78cecddf62a222d') in 0.130164 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000201 seconds.
-  path: Assets/Models/DAE format/flowers.dae
-  artifactKey: Guid(d4f960fe5df3a453e864b9725e49d0c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/DAE format/flowers.dae using Guid(d4f960fe5df3a453e864b9725e49d0c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a21cb405d96c4d1c85f688cff8f765a2') in 0.091238 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 9.521508 seconds.
-  path: Assets/Models/DAE format/key.dae
-  artifactKey: Guid(c8e04d65f611d4bababc46743602a577) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/DAE format/key.dae using Guid(c8e04d65f611d4bababc46743602a577) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f665f09d47fc1560f2c58a0a81534afe') in 0.035563 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000149 seconds.
-  path: Assets/Models/DAE format/plant.dae
-  artifactKey: Guid(7c7cc6fa3398d4f2382f6bd4ad929c58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/DAE format/plant.dae using Guid(7c7cc6fa3398d4f2382f6bd4ad929c58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c92c73901105699eb0c83f26d22eabdb') in 0.047644 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000095 seconds.
-  path: Assets/Models/DAE format/ladderLong.dae
-  artifactKey: Guid(4114c53ad92b5458babc713de857c9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/DAE format/ladderLong.dae using Guid(4114c53ad92b5458babc713de857c9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8896b0a3eeb03fac9a29fc11f3349d71') in 0.083844 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000124 seconds.
-  path: Assets/Models/DAE format/mushrooms.dae
-  artifactKey: Guid(bd0bd337c4aec47afa3d211d8c109590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/DAE format/mushrooms.dae using Guid(bd0bd337c4aec47afa3d211d8c109590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c613e0402bb7f78f87935172d5b78c2a') in 0.049764 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000227 seconds.
-  path: Assets/Models/DAE format/ladderBroken.dae
-  artifactKey: Guid(cbf2329c4ed1443cca5787cbf1b91116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/DAE format/ladderBroken.dae using Guid(cbf2329c4ed1443cca5787cbf1b91116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e78e8bea3095b8eb7382ac7b32494f1a') in 0.087223 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.516168 seconds.
-  path: Assets/Models/DAE format/platform.dae
-  artifactKey: Guid(3788765bdaee3489f8ab49f50f682cb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/DAE format/platform.dae using Guid(3788765bdaee3489f8ab49f50f682cb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef898ecf4bc0d51786c5ca6a2399d190') in 0.044306 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000150 seconds.
-  path: Assets/Models/DAE format/rocks.dae
-  artifactKey: Guid(c4c7505192ee64915b3e1681c3fa7272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/DAE format/rocks.dae using Guid(c4c7505192ee64915b3e1681c3fa7272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd509d1401d4f69f6a11ed5ff5913174') in 0.061011 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000131 seconds.
-  path: Assets/Models/DAE format/saw.dae
-  artifactKey: Guid(ad14cfa4da94b4a04a387c673705e7b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/DAE format/saw.dae using Guid(ad14cfa4da94b4a04a387c673705e7b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4459f1792525074176f3b98dabd07c3f') in 0.071840 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000117 seconds.
-  path: Assets/Models/DAE format/spikeBlockWide.dae
-  artifactKey: Guid(c04eadc6a057440c88038478196d9816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/DAE format/spikeBlockWide.dae using Guid(c04eadc6a057440c88038478196d9816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93a685f6157a5022cc39ec20311cc019') in 0.069210 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000197 seconds.
-  path: Assets/Models/DAE format/treePineSnow.dae
-  artifactKey: Guid(b8a59224c85094b9880e8204b767e39d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/DAE format/treePineSnow.dae using Guid(b8a59224c85094b9880e8204b767e39d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4729dc91d4237a6de052edf2dd088201') in 0.075657 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000156 seconds.
-  path: Assets/Models/DAE format/treePine.dae
-  artifactKey: Guid(175b118de4ce640be9a8aa1d171aa7da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/DAE format/treePine.dae using Guid(175b118de4ce640be9a8aa1d171aa7da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '387850337f99f6c6991e8ff828d68f00') in 0.062515 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000132 seconds.
-  path: Assets/Models/DAE format/tree.dae
-  artifactKey: Guid(ca581119c8893476ba1b43365fd4b515) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/DAE format/tree.dae using Guid(ca581119c8893476ba1b43365fd4b515) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54fe4a83ea833647982d02db1c96428d') in 0.075444 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000111 seconds.
-  path: Assets/Models/DAE format/treePineSmallSnow.dae
-  artifactKey: Guid(bfad8a29c979143fc850386ba24fd799) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/DAE format/treePineSmallSnow.dae using Guid(bfad8a29c979143fc850386ba24fd799) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40f6a95e34feb9aec4dc535f78feffad') in 0.088715 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.174264 seconds.
-  path: Assets/Models/DAE format/treeSnow.dae
-  artifactKey: Guid(7c3c081774ded47db9b56ed9b7f0213f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/DAE format/treeSnow.dae using Guid(7c3c081774ded47db9b56ed9b7f0213f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52b70b070b2f9e989aa222fef1bfc60c') in 0.026388 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 27.540307 seconds.
-  path: Assets/Models/Stone_Models
-  artifactKey: Guid(f4307b6459fc44b5782dd633da94a693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Stone_Models using Guid(f4307b6459fc44b5782dd633da94a693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17491d38c1b59a4a140ada12522cc3a2') in 0.002061 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.424998 seconds.
-  path: Assets/Models/OBJ format
-  artifactKey: Guid(ca7bc94b10d194cac92b3792a65ab67f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/OBJ format using Guid(ca7bc94b10d194cac92b3792a65ab67f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '683e055a568d02d05b53adf0e2a91f8b') in 0.001497 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.700956 seconds.
-  path: Assets/Models/DAE format
-  artifactKey: Guid(63689d8f7d0344b1cb344b41f075a304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/DAE format using Guid(63689d8f7d0344b1cb344b41f075a304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84d71db4caa056616c704b9bcc031cee') in 0.001697 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.659515 seconds.
-  path: Assets/Models/STL format
-  artifactKey: Guid(48713b15b12d646deb1437c5cae4995a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/STL format using Guid(48713b15b12d646deb1437c5cae4995a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7395d43367930b7fe6bc08268658874b') in 0.004729 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 286.467021 seconds.
-  path: Assets/Scenes
-  artifactKey: Guid(6ea315d0fd7389c41b19996891e99ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes using Guid(6ea315d0fd7389c41b19996891e99ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8193726cff86800c54781cdc6d54904') in 0.003986 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 41.731204 seconds.
-  path: Assets/Scenes/Ikea.unity
-  artifactKey: Guid(dbb4fe39cb49841c6b4d3789b1197f16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Ikea.unity using Guid(dbb4fe39cb49841c6b4d3789b1197f16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a943458cada584fa18939a573dfec0ef') in 0.003169 seconds 
-=======
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006288 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image /Users/katherinehu/Desktop/unityprojects/dancingDK/dancingDK/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 1.37 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  4.084 seconds
-Domain Reload Profiling:
-	ReloadAssembly (4087ms)
-		BeginReloadAssembly (618ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (28ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (263ms)
-		EndReloadAssembly (2913ms)
-			LoadAssemblies (340ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (1160ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (137ms)
-			SetupLoadedEditorAssemblies (1206ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (23ms)
-				SetLoadedEditorAssemblies (2ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (151ms)
-				ProcessInitializeOnLoadAttributes (926ms)
-				ProcessInitializeOnLoadMethodAttributes (97ms)
-				AfterProcessingInitializeOnLoad (5ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (15ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 2.67 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3113 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 17 unused Assets / (67.9 KB). Loaded Objects now: 3668.
-Memory consumption went from 121.7 MB to 121.6 MB.
-Total: 7.396051 ms (FindLiveObjects: 0.345591 ms CreateObjectMapping: 0.310256 ms MarkObjects: 6.564389 ms  DeleteObjects: 0.173958 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
->>>>>>> b525e090 (tilemap and flower)
