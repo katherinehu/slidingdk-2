@@ -14,10 +14,11 @@ public class LineController : MonoBehaviour
     {
         dir = Vector3.forward;
     }
+
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKey(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.Space))
         {
             // if moving right move left
             if (dir == Vector3.forward)

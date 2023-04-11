@@ -1,22 +1,20 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class CameraController : MonoBehaviour
 {
-    public Transform player;
-    public UnityEngine.Vector3 offset = new UnityEngine.Vector3(2, 0, 0);
+    public Transform target; // The object to follow
+    public float smoothSpeed = 0.125f; // The speed of the camera movement
+    public Vector3 offset; // The offset from the target object's position
 
-    // Start is called before the first frame update
-    void Start()
+    void LateUpdate()
     {
+        // Calculate the desired camera position
+        Vector3 desiredPosition = target.position + offset;
 
-    }
+        // Smoothly move the camera to the desired position
+        transform.position = Vector3.Lerp(transform.position, desiredPosition, smoothSpeed);
 
-    // Update is called once per frame
-    void Update()
-    {
-        transform.position = player.position + offset;
+        // Set the camera to always look at the target object
+        transform.rotation = Quaternion.Euler(45f, 45f, 0f);
     }
 }
-
