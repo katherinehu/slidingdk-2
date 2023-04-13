@@ -9,12 +9,10 @@ public class LineController : MonoBehaviour
     List<Transform> growth = new List<Transform>();
     public GameObject shadowPrefab;
     private AudioSource backgroundMusic;
-    // public AudioClip collideSound;
 
     // Start is called before the first frame update
     void Start()
     {
-        //dir = Vector3.forward;
         backgroundMusic = GetComponent<AudioSource>();
     }
 
