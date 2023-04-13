@@ -8,11 +8,14 @@ public class LineController : MonoBehaviour
     private Vector3 dir;
     List<Transform> growth = new List<Transform>();
     public GameObject shadowPrefab;
+    // public AudioSource backgroundMusic;
+    // public AudioSource collideSound;
 
     // Start is called before the first frame update
     void Start()
     {
         dir = Vector3.forward;
+        // backgroundMusic = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame

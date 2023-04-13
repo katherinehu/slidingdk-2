@@ -113,6 +113,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   shadowPrefab: {fileID: 2743330648769643168}
+  backgroundMusic: {fileID: 0}
 --- !u!54 &2743330648769643194
 Rigidbody:
   m_ObjectHideFlags: 0
