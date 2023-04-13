@@ -8,14 +8,14 @@ public class LineController : MonoBehaviour
     private Vector3 dir;
     List<Transform> growth = new List<Transform>();
     public GameObject shadowPrefab;
-    // public AudioSource backgroundMusic;
-    // public AudioSource collideSound;
+    private AudioSource backgroundMusic;
+    // public AudioClip collideSound;
 
     // Start is called before the first frame update
     void Start()
     {
-        dir = Vector3.forward;
-        // backgroundMusic = GetComponent<AudioSource>();
+        //dir = Vector3.forward;
+        backgroundMusic = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -23,15 +23,23 @@ public class LineController : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            // if moving right move left
-            if (dir == Vector3.forward)
+            // start moving and play music
+            if (dir == Vector3.zero)
+            {
+                dir = Vector3.forward;
+                backgroundMusic.Play();
+            }
+            // if moving left move right
+            else if (dir == Vector3.forward)
             {
                 dir = Vector3.right;
             }
-            else if (dir == Vector3.right) // if moving left move right
+            // if moving right move left
+            else if (dir == Vector3.right)
             {
                 dir = Vector3.forward;
             }
+
         }
 
         float movement = speed * Time.deltaTime;
