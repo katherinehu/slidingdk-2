@@ -9,11 +9,14 @@ public class LineController : MonoBehaviour
     List<Transform> growth = new List<Transform>();
     public GameObject shadowPrefab;
     private AudioSource backgroundMusic;
+    public float startTime;
+    
 
     // Start is called before the first frame update
     void Start()
     {
         backgroundMusic = GetComponent<AudioSource>();
+        backgroundMusic.time = startTime;
     }
 
     // Update is called once per frame
