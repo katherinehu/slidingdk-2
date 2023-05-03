@@ -796,3 +796,51 @@ Received Import Request.
   path: Assets/Models/Ikea_Models/OBJ format/plantSmall3.obj
   artifactKey: Guid(8a00917876f7a4c7fb0de9d731bcda24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Models/Ikea_Models/OBJ format/plantSmall3.obj using Guid(8a00917876f7a4c7fb0de9d731bcda24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28699671f6c8d9ccfe8fdb2682eac0e8') in 0.068717 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 176.079777 seconds.
+  path: Assets/Models/City_Models
+  artifactKey: Guid(83e1d731eee714e498d8a4b6ce53e889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models using Guid(83e1d731eee714e498d8a4b6ce53e889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd013b22433911084638397537609efe4') in 0.007202 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.347590 seconds.
+  path: Assets/Models/City_Models/OBJ format
+  artifactKey: Guid(6960a3a14c315428da064ceb97cfc954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/OBJ format using Guid(6960a3a14c315428da064ceb97cfc954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa02889a88ab2cbd9ed7283c07d84822') in 0.003584 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.230361 seconds.
+  path: Assets/Models/City_Models/Suburbs
+  artifactKey: Guid(6960a3a14c315428da064ceb97cfc954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Suburbs using Guid(6960a3a14c315428da064ceb97cfc954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e731deaf51c7b2edf69fa52b664d8bbe') in 0.003109 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.691039 seconds.
+  path: Assets/Models/City_Models/OBJ format
+  artifactKey: Guid(9a25c670a2c664c169311e935cccbd81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/OBJ format using Guid(9a25c670a2c664c169311e935cccbd81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63d6ccbfb73ced66eceb080b600754fe') in 0.004828 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 49.341442 seconds.
+  path: Assets/Models/City_Models/Buildings
+  artifactKey: Guid(9a25c670a2c664c169311e935cccbd81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Buildings using Guid(9a25c670a2c664c169311e935cccbd81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1effaa14a622c00d2888534144969be4') in 0.004961 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.462260 seconds.
+  path: Assets/Models/City_Models/Bldgs
+  artifactKey: Guid(9a25c670a2c664c169311e935cccbd81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Bldgs using Guid(9a25c670a2c664c169311e935cccbd81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '689560c6369d52c3b09ee418051553ed') in 0.004821 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.762629 seconds.
+  path: Assets/Models/City_Models/OBJ format
+  artifactKey: Guid(c677a95f91d2e4e65aef5eac47591040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/OBJ format using Guid(c677a95f91d2e4e65aef5eac47591040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5861b03091a8aa9d4b5335858b455a79') in 0.006817 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.687955 seconds.
+  path: Assets/Models/City_Models/Roads
+  artifactKey: Guid(c677a95f91d2e4e65aef5eac47591040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads using Guid(c677a95f91d2e4e65aef5eac47591040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e49d644216ae1c9537a9076644afc156') in 0.004590 seconds 
