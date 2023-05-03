@@ -706,3 +706,93 @@ Received Import Request.
   path: Assets/Models/Ikea_Models/OBJ format/toilet.obj
   artifactKey: Guid(589e3442ba25b4422b3f2ae8e8d705e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Models/Ikea_Models/OBJ format/toilet.obj using Guid(589e3442ba25b4422b3f2ae8e8d705e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0977d9bf3f3a6d079e0d2f727e4b556') in 0.075570 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 214.053820 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/bedDouble.obj
+  artifactKey: Guid(9186394eb8ec643a78141834566ec220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/bedDouble.obj using Guid(9186394eb8ec643a78141834566ec220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '082985debbd6a7909369f8f7bf73088a') in 0.428708 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.389619 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/bedSingle.obj
+  artifactKey: Guid(5be5e809e39174c77aee0903d69532d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/bedSingle.obj using Guid(5be5e809e39174c77aee0903d69532d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53231201db425d16fdfcc71f069cbef6') in 0.098295 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.611266 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/cabinetBedDrawer.obj
+  artifactKey: Guid(5be45cece1f0e4321995e6d3bf2567f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/cabinetBedDrawer.obj using Guid(5be45cece1f0e4321995e6d3bf2567f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfd5caf6ac261972573ba36115cd6e7d') in 0.216516 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.967625 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/cabinetBed.obj
+  artifactKey: Guid(fac6a31205588473c9e76db2f06bc5cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/cabinetBed.obj using Guid(fac6a31205588473c9e76db2f06bc5cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83c72fe85779645838f8b16a5eeb29c5') in 0.162678 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.624874 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/bedBunk.mtl
+  artifactKey: Guid(11e0ab78972454bcd8fd0a76fb697848) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/bedBunk.mtl using Guid(11e0ab78972454bcd8fd0a76fb697848) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc15899415157f9ca6bd22aad561e1ea') in 1.605534 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.135140 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/bedBunk.obj
+  artifactKey: Guid(30c276e2755384a53bb57a6649a5ab7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/bedBunk.obj using Guid(30c276e2755384a53bb57a6649a5ab7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65342d19510f768299ca41728209e610') in 0.334148 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.753147 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Circle.psd
+  artifactKey: Guid(10c49fcd9c64421db7c0133e61e55f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Circle.psd using Guid(10c49fcd9c64421db7c0133e61e55f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec981b7b0752e00e9bcba9ab744c7bed') in 1.419420 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 37.671787 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/DropCap Numbers.asset
+  artifactKey: Guid(14aa93acbb234d16aaef0e8b46814db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/DropCap Numbers.asset using Guid(14aa93acbb234d16aaef0e8b46814db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f191ca275ba67c55a8b41c67638ecf8d') in 0.487968 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 105.078773 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Soft Mask.mat
+  artifactKey: Guid(42df1c7856584b6b8db9a509b6b10074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Soft Mask.mat using Guid(42df1c7856584b6b8db9a509b6b10074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2e279739b22c2e62fd722628c5e774a') in 0.541254 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.632520 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/loungeSofaLong.obj
+  artifactKey: Guid(0cf1254e1d31641038acc942175fb0d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/loungeSofaLong.obj using Guid(0cf1254e1d31641038acc942175fb0d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24841408537ddc3f472c4c4a93b0341b') in 0.209074 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20684.258907 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/lampRoundTable.obj
+  artifactKey: Guid(274afdfde06474eae82a4e7d1c7661da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/lampRoundTable.obj using Guid(274afdfde06474eae82a4e7d1c7661da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fb1be0134c12e1d79161490f1586645') in 0.422161 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 59.704483 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/tableCloth.obj
+  artifactKey: Guid(377aceb01b8aa49d2848ce8e52e11249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/tableCloth.obj using Guid(377aceb01b8aa49d2848ce8e52e11249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d31f0210592be37f4c524559fcf3cb0') in 0.148084 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.909347 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/lampRoundFloor.obj
+  artifactKey: Guid(ebbee0840053845788e6034accb45133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/lampRoundFloor.obj using Guid(ebbee0840053845788e6034accb45133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fe75a1ca030017360ea3b444de186a8') in 0.078314 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 118.147785 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/plantSmall3.obj
+  artifactKey: Guid(8a00917876f7a4c7fb0de9d731bcda24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/plantSmall3.obj using Guid(8a00917876f7a4c7fb0de9d731bcda24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd92f55c05c60ce4a41fec751bb231fc4') in 0.113689 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.601649 seconds.
+  path: Assets/Models/Ikea_Models/OBJ format/plantSmall3.obj
+  artifactKey: Guid(8a00917876f7a4c7fb0de9d731bcda24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ikea_Models/OBJ format/plantSmall3.obj using Guid(8a00917876f7a4c7fb0de9d731bcda24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28699671f6c8d9ccfe8fdb2682eac0e8') in 0.068717 seconds 
