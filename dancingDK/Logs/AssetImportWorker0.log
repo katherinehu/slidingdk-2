@@ -844,3 +844,225 @@ Received Import Request.
   path: Assets/Models/City_Models/Roads
   artifactKey: Guid(c677a95f91d2e4e65aef5eac47591040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Models/City_Models/Roads using Guid(c677a95f91d2e4e65aef5eac47591040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e49d644216ae1c9537a9076644afc156') in 0.004590 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 122.455578 seconds.
+  path: Assets/Scenes/Ikea.unity
+  artifactKey: Guid(dbb4fe39cb49841c6b4d3789b1197f16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Ikea.unity using Guid(dbb4fe39cb49841c6b4d3789b1197f16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90ab4b9cc481d1ce23fd9a3550c4ac1d') in 0.006485 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.221945 seconds.
+  path: Assets/Scenes/SampleScene 1.unity
+  artifactKey: Guid(7398f7c97d2064a139228341092ba69f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene 1.unity using Guid(7398f7c97d2064a139228341092ba69f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4260f1c3d0b7b817b4b5c3e3a1761498') in 0.003059 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.713730 seconds.
+  path: Assets/Scenes/Tutorial.unity
+  artifactKey: Guid(7398f7c97d2064a139228341092ba69f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Tutorial.unity using Guid(7398f7c97d2064a139228341092ba69f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eac102869f9d69ab50c8976c8cf0bacb') in 0.003032 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 27.497402 seconds.
+  path: Assets/Scenes/City.unity
+  artifactKey: Guid(f26a0b0ffcdf44702acb2b794e1557c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/City.unity using Guid(f26a0b0ffcdf44702acb2b794e1557c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '931dc943877ac9f234df552ff772ea53') in 0.002796 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 74.409666 seconds.
+  path: Assets/Scenes/New Scene.unity
+  artifactKey: Guid(dbcd3b966e83c41eb8e121929c1505c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/New Scene.unity using Guid(dbcd3b966e83c41eb8e121929c1505c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '747b4690ec4b719e412fde93e7526660') in 0.006581 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 54.329049 seconds.
+  path: Assets/Models/City_Models/Roads/bridge_pillar.obj
+  artifactKey: Guid(f823964a4bf64497dae164315842beb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads/bridge_pillar.obj using Guid(f823964a4bf64497dae164315842beb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b59bbd5b6304e9b4be43f4251c632cd4') in 0.114115 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/Models/City_Models/Roads/light_square.obj
+  artifactKey: Guid(d914da336131c4121b488d87b01155c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads/light_square.obj using Guid(d914da336131c4121b488d87b01155c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44d3de812040f0770be06ee0155574f4') in 0.069915 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Models/City_Models/Roads/road_bendSquare.obj
+  artifactKey: Guid(da9bfb7df00f04b328e7b4717e92c27e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads/road_bendSquare.obj using Guid(da9bfb7df00f04b328e7b4717e92c27e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc702e4001de6b5b5f71d517aaca050d') in 0.101033 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Models/City_Models/Roads/light_curvedDouble.obj
+  artifactKey: Guid(b25b669c1d0564505a33ac51ec0726b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads/light_curvedDouble.obj using Guid(b25b669c1d0564505a33ac51ec0726b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a93c8f411afb4825fa9a7bbf618abf30') in 0.082648 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000104 seconds.
+  path: Assets/Models/City_Models/Roads/road_crossroadBarrier.obj
+  artifactKey: Guid(7cdc77bb900994050b4c2a6c36224142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads/road_crossroadBarrier.obj using Guid(7cdc77bb900994050b4c2a6c36224142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7287073d755b2a10201396020a9bda6b') in 0.050345 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Models/City_Models/Roads/road_bendBarrier.obj
+  artifactKey: Guid(ffc64c1a0d97b42e0919883441fdc51c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads/road_bendBarrier.obj using Guid(ffc64c1a0d97b42e0919883441fdc51c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45baaf4562766f5dd508b705fef2b758') in 0.085401 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Models/City_Models/Roads/road_bendSquareBarrier.obj
+  artifactKey: Guid(ee7f3b54b50f44c4abdaddc19c31a7a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads/road_bendSquareBarrier.obj using Guid(ee7f3b54b50f44c4abdaddc19c31a7a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72d7040d923db9c2d533884438b00bb1') in 0.045725 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Models/City_Models/Roads/road_bendSidewalk.obj
+  artifactKey: Guid(fa020158a9cca4ab1af7b8c903884113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads/road_bendSidewalk.obj using Guid(fa020158a9cca4ab1af7b8c903884113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8151e77ac6357bede455586b078ab85b') in 0.061422 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Models/City_Models/Roads/road_crossroad.obj
+  artifactKey: Guid(b7f8a26e07fdb4df9b2eef577487e703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads/road_crossroad.obj using Guid(b7f8a26e07fdb4df9b2eef577487e703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3600c0ad0679fa5da4f2731fd96e573c') in 0.075930 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Models/City_Models/Roads/light_squareCross.obj
+  artifactKey: Guid(25dc2eede297a431b9d5434809ad85d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads/light_squareCross.obj using Guid(25dc2eede297a431b9d5434809ad85d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5783b970cbb03c87bf08a094f9cf8d51') in 0.068157 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Models/City_Models/Roads/construction_pylon.obj
+  artifactKey: Guid(0bc36ee8c0c28451eb0f9e80dda541c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads/construction_pylon.obj using Guid(0bc36ee8c0c28451eb0f9e80dda541c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b380d743084ac77e0f1fb2918bbf0a52') in 0.064750 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Models/City_Models/Roads/construction_barrier.obj
+  artifactKey: Guid(9499df0c6973a48c8ba685694b4adaaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads/construction_barrier.obj using Guid(9499df0c6973a48c8ba685694b4adaaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0f5dfe5373d82d910c6865186e71928') in 0.051449 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Models/City_Models/Roads/light_curved.obj
+  artifactKey: Guid(adbc07f4be94f4e0d99d0da426189542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads/light_curved.obj using Guid(adbc07f4be94f4e0d99d0da426189542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e7dac847782fb01d7ff66968070a8ac') in 0.083436 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Models/City_Models/Roads/construction_light.obj
+  artifactKey: Guid(6334221b1e9b94a8b860d6fd19a4f12e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads/construction_light.obj using Guid(6334221b1e9b94a8b860d6fd19a4f12e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e779b1c43b01e226a8e988b4f05656d') in 0.107047 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001722 seconds.
+  path: Assets/Models/City_Models/Roads/road_crossing.obj
+  artifactKey: Guid(dc6d6f23c3a8144f58c35ed3abe84579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads/road_crossing.obj using Guid(dc6d6f23c3a8144f58c35ed3abe84579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c861edc52462b30d8446a156df52ae0') in 0.085685 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Models/City_Models/Roads/light_squareDouble.obj
+  artifactKey: Guid(561076b7a78b34041b1dd38be192047d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads/light_squareDouble.obj using Guid(561076b7a78b34041b1dd38be192047d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dff28ba6d433a82ac1a251d60051628e') in 0.082280 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Models/City_Models/Roads/light_curvedCross.obj
+  artifactKey: Guid(0bdeffe5353994921992b32dc9ccdfdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads/light_curvedCross.obj using Guid(0bdeffe5353994921992b32dc9ccdfdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c52c58a9d2ca54212d1f3117c31cd821') in 0.075740 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Models/City_Models/Roads/road_bridge.obj
+  artifactKey: Guid(7a0a595dbc31a43469539846bc232e53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads/road_bridge.obj using Guid(7a0a595dbc31a43469539846bc232e53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8979b0f31a7925a98afc0b3bfc3c7f63') in 0.081544 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Models/City_Models/Roads/road_bend.obj
+  artifactKey: Guid(b77b21a5b61164170b21f0bb00f9cec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads/road_bend.obj using Guid(b77b21a5b61164170b21f0bb00f9cec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb0e878fda0ea1f5fe5b42091f131d6d') in 0.103520 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.586686 seconds.
+  path: Assets/Models/City_Models/Roads/road_crossroadLine.obj
+  artifactKey: Guid(6a151b3b39fc54f3a87cd602af3cf633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads/road_crossroadLine.obj using Guid(6a151b3b39fc54f3a87cd602af3cf633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5211cf4d60a1a818e92f2b063cf7bcb') in 0.070558 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Models/City_Models/Roads/road_curve.obj
+  artifactKey: Guid(f97798eed2dc84074be72eb248829f7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads/road_curve.obj using Guid(f97798eed2dc84074be72eb248829f7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14ee6effa9429bac973a1d93547fcd5d') in 0.095759 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Models/City_Models/Roads/road_drivewayDouble.obj
+  artifactKey: Guid(40ef135e78b8248c987f0622f7b99bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads/road_drivewayDouble.obj using Guid(40ef135e78b8248c987f0622f7b99bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc86d00082632674b7b051cf13273bb4') in 0.100058 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Models/City_Models/Roads/road_endRound.obj
+  artifactKey: Guid(86eb5bc04f9134faf825d4ae281f4cff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads/road_endRound.obj using Guid(86eb5bc04f9134faf825d4ae281f4cff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b0fb55928d1706e760a4aa10745bf75') in 0.096967 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000472 seconds.
+  path: Assets/Models/City_Models/Roads/road_curveIntersectionBarrier.obj
+  artifactKey: Guid(f350f12615f6443f987e923d5e79ded2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads/road_curveIntersectionBarrier.obj using Guid(f350f12615f6443f987e923d5e79ded2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71521bd5a8af60260339981f31616b4f') in 0.069151 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Models/City_Models/Roads/road_endBarrier.obj
+  artifactKey: Guid(d205c23085eae4b3ea7928cce6958cf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads/road_endBarrier.obj using Guid(d205c23085eae4b3ea7928cce6958cf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2799eb1a07fd835d7673758eb6fe9565') in 0.057255 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Models/City_Models/Roads/road_drivewayDoubleBarrier.obj
+  artifactKey: Guid(930d0cdea87694f3191b1430fa4ceefd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads/road_drivewayDoubleBarrier.obj using Guid(930d0cdea87694f3191b1430fa4ceefd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ef1e43ac4ece3bb0f50961f8a9377dc') in 0.063589 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/Models/City_Models/Roads/road_end.obj
+  artifactKey: Guid(305991f2719024660b7bf7d22193b1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads/road_end.obj using Guid(305991f2719024660b7bf7d22193b1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81b81fc0cfa46dbcf961f84026637112') in 0.082294 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Models/City_Models/Roads/road_intersectionPath.obj
+  artifactKey: Guid(3009fe4927b31445c98092763088e47e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads/road_intersectionPath.obj using Guid(3009fe4927b31445c98092763088e47e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '815a4c1a4ac23c3a1bbeb60b9246ae46') in 0.106171 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Models/City_Models/Roads/road_roundabout.obj
+  artifactKey: Guid(0c1b7fcac1fac4889b76bd21c9b31bff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads/road_roundabout.obj using Guid(0c1b7fcac1fac4889b76bd21c9b31bff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '590a885b9a20a24eb66ce11cea172486') in 0.101335 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.864895 seconds.
+  path: Assets/Models/City_Models/Roads/road_roundaboutBarrier.obj
+  artifactKey: Guid(5b1822f51a28f4946a0439d9550b92f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads/road_roundaboutBarrier.obj using Guid(5b1822f51a28f4946a0439d9550b92f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88851cbc5562c11418e3ff2c799086e5') in 0.045995 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Models/City_Models/Roads/road_sideEntryBarrier.obj
+  artifactKey: Guid(e63c980895bbb498cbcad7eb62c147ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads/road_sideEntryBarrier.obj using Guid(e63c980895bbb498cbcad7eb62c147ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e10e5a390c948968f667a8f03fa5962f') in 0.048196 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Models/City_Models/Roads/road_sideBarrier.obj
+  artifactKey: Guid(a96aac10917e14fd485be5ce1002d75a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/City_Models/Roads/road_sideBarrier.obj using Guid(a96aac10917e14fd485be5ce1002d75a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68149fa4ddb27dbf0062875fa8a6eb37') in 0.057089 seconds 
