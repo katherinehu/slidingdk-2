@@ -10,6 +10,9 @@ public class LineController : MonoBehaviour
     public GameObject shadowPrefab;
     private AudioSource backgroundMusic;
     private Rigidbody rbd;
+    public static bool startAgain = false;
+    public static bool canEnd = false;
+    public Camera mainCamera;
 
     // Start is called before the first frame update
     void Start()
@@ -17,6 +20,7 @@ public class LineController : MonoBehaviour
         backgroundMusic = GetComponent<AudioSource>();
         rbd = GetComponent<Rigidbody>();
         growth.Add(transform);
+        startAgain = false;
     }
 
     void LineGrow()
@@ -28,12 +32,9 @@ public class LineController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //if (growth.Contains(transform) == false) {
-        //    growth.Add(transform);
-        //    LineGrow();
-        //}
         if (Input.GetKeyDown(KeyCode.Space))
         {
+            canEnd = true;
             // start moving and play music
             if (dir == Vector3.zero)
             {
@@ -52,9 +53,27 @@ public class LineController : MonoBehaviour
             }
 
         }
+        else if (PauseMenu.isPaused == true) {
+            print("PAUSE = true");
+            backgroundMusic.Pause();
+            startAgain = false;
+        }
+        else if (startAgain == true) {
+            print("START AGAIN");
+            backgroundMusic.Play();
+            startAgain = false;
+        }
+        // Check if the music has ended
+        if (!backgroundMusic.isPlaying && canEnd)
+        {
+            mainCamera.enabled = false;
+            // Do something when the music has ended
+            Debug.Log("The music has ended!");
+        }
         float movement = speed * Time.deltaTime;
         transform.Translate(dir * movement);
     }
+    
     // TODO: add colliders on furniture
     void OnCollisionEnter(Collision collision)
     {

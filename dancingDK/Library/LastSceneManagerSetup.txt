@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/City.unity
+=======
+- path: Assets/Scenes/Flower.unity
+>>>>>>> 9ca17ab2 (pause menu 1/2 stop at end 1/1)
   isLoaded: 1
   isActive: 1
   isSubScene: 0
