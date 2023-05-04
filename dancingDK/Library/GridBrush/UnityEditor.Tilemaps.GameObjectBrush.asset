@@ -16,7 +16,7 @@ MonoBehaviour:
   - m_GameObject: {fileID: 919132149155446097, guid: 13e6973a421404bb6b7e333810e8930d, type: 3}
     m_Offset: {x: 0, y: 0, z: 0}
     m_Scale: {x: 1, y: 1, z: 1}
-    m_Orientation: {x: 0, y: 0.70710677, z: 0, w: 0.70710677}
+    m_Orientation: {x: 0, y: 0, z: 0, w: 1}
   m_Size: {x: 1, y: 1, z: 1}
   m_Pivot: {x: 0, y: 0, z: 0}
   m_CanChangeZPosition: 0
